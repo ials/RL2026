@@ -231,25 +231,25 @@ OBJETIVOS:
 <div id="callout-1" class="callout-1-contents callout-collapse collapse show">
 <div class="callout-body-container callout-body">
 <ul>
-<li>Entender el proceso de percepción remota de la superficie terrestre y su relación con la investigación</li>
-<li>Conocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)</li>
-<li>Entender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR</li>
-<li>Aplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR</li>
+<li>Conocer los principios físicos asociados a SAR y LiDAR</li>
+<li>Entender las características principales de los datos SAR y LiDAR</li>
+<li>Conocer los métodos de corrección radiométrica y geométrica de imágenes SAR</li>
+<li>Obtener información temática a partir de imágenes SAR y datos LiDAR</li>
 </ul>
 <section id="competencias-genéricas" class="level3">
 <h3 class="anchored" data-anchor-id="competencias-genéricas">COMPETENCIAS GENÉRICAS:</h3>
 <ul>
-<li>Comprensión de los fundamentos teóricos de la percepción remota</li>
-<li>Obtención de habilidades prácticas para seleccionar, procesar y analizar imágenes</li>
-<li>Desarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota</li>
+<li>Comprensión de los fundamentos teóricos de la percepción remota SAR y LiDAR</li>
+<li>Obtención de habilidades prácticas para seleccionar, procesar y analizar datos SAR y LiDAR</li>
+<li>Desarrollo de pensamiento crítico sobre las ventajas y las limitaciones de estas tecnologías</li>
 </ul>
 </section>
 <section id="competencias-específicas" class="level3">
 <h3 class="anchored" data-anchor-id="competencias-específicas">COMPETENCIAS ESPECÍFICAS:</h3>
 <ul>
-<li>Entendimiento del flujo de trabajo genérico de percepción remota</li>
-<li>Adaptación y creación de scripts para procesamiento y análisis de imágenes</li>
-<li>Evaluación de la calidad de productos de percepción remota</li>
+<li>Entendimiento del flujo de trabajo genérico para el uso de datos SAR y LiDAR</li>
+<li>Adaptación y creación de scripts para procesamiento y análisis de datos SAR y LiDAR</li>
+<li>Evaluación de la calidad de productos de percepción remota SAR y LiDAR</li>
 </ul>
 </section>
 <section id="metodologia" class="level3">
@@ -257,13 +257,13 @@ OBJETIVOS:
 <ul>
 <li>Lectura antes de la clase a cargo del estudiante</li>
 <li>Presentación de conceptos, métodos y técnicas a cargo del profesor</li>
-<li>Realización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante</li>
+<li>Realización de ejercicios conceptuales y prácticos a cargo del estudiante</li>
 </ul>
 </section>
 <section id="software" class="level3">
 <h3 class="anchored" data-anchor-id="software">SOFTWARE</h3>
 <ul>
-<li><em>PARTE 1:</em> Sentinel-1 Toolbox (S1TBX)</li>
+<li><em>PARTE 1:</em> GEE, Python, Sentinel-1 Toolbox (S1TBX)</li>
 <li><em>PARTE 2:</em> Python &amp; Jupyter &amp; Google Colaboratory</li>
 </ul>
 </section>
@@ -285,29 +285,23 @@ PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)
 </div>
 <div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<section id="semana-1-repaso-contexto-conceptos-claves" class="level3">
-<h3 class="anchored" data-anchor-id="semana-1-repaso-contexto-conceptos-claves">Semana 1 – Repaso, Contexto &amp; Conceptos claves</h3>
+<section id="tópico-1---conceptos-básicos-de-radar" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-1---conceptos-básicos-de-radar">Tópico 1 - Conceptos básicos de radar</h3>
 </section>
-<section id="semana-2---conceptos-básicos-de-radar" class="level3">
-<h3 class="anchored" data-anchor-id="semana-2---conceptos-básicos-de-radar">Semana 2 - Conceptos básicos de radar</h3>
+<section id="tópico-2---procesamiento-básico-de-imágenes-sar---snap" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-2---procesamiento-básico-de-imágenes-sar---snap">Tópico 2 - Procesamiento básico de imágenes SAR - SNAP</h3>
 </section>
-<section id="semana-3---procesamiento-básico-de-imágenes-sar---snap" class="level3">
-<h3 class="anchored" data-anchor-id="semana-3---procesamiento-básico-de-imágenes-sar---snap">Semana 3 - Procesamiento básico de imágenes SAR - SNAP</h3>
+<section id="tópico-3-propiedades-radiativas-de-suelos-y-vegetación" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-3-propiedades-radiativas-de-suelos-y-vegetación">Tópico 3 – Propiedades radiativas de suelos y vegetación</h3>
 </section>
-<section id="semana-4-propiedades-radiativas-de-suelos-y-vegetación" class="level3">
-<h3 class="anchored" data-anchor-id="semana-4-propiedades-radiativas-de-suelos-y-vegetación">Semana 4 – Propiedades radiativas de suelos y vegetación</h3>
+<section id="tópico-4-procesamiento-básico-de-imágenes-sar" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-4-procesamiento-básico-de-imágenes-sar">Tópico 4 – Procesamiento básico de imágenes SAR</h3>
 </section>
-<section id="semana-5-procesamiento-básico-de-imágenes-sar---gee---js" class="level3">
-<h3 class="anchored" data-anchor-id="semana-5-procesamiento-básico-de-imágenes-sar---gee---js">Semana 5 – Procesamiento básico de imágenes SAR - GEE - JS</h3>
+<section id="tópico-5-analysis-ready-sar-data" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-5-analysis-ready-sar-data">Tópico 5 – Analysis Ready SAR Data</h3>
 </section>
-<section id="semana-6-procesamiento-básico-de-imágenes-sar---gee---python" class="level3">
-<h3 class="anchored" data-anchor-id="semana-6-procesamiento-básico-de-imágenes-sar---gee---python">Semana 6 – Procesamiento básico de imágenes SAR - GEE - Python</h3>
-</section>
-<section id="semana-7-analysis-ready-sar-data" class="level3">
-<h3 class="anchored" data-anchor-id="semana-7-analysis-ready-sar-data">Semana 7 – Analysis Ready SAR Data</h3>
-</section>
-<section id="semana-8-open-data-cube" class="level3">
-<h3 class="anchored" data-anchor-id="semana-8-open-data-cube">Semana 8 – Open Data Cube</h3>
+<section id="tópico-6---interferometría-sar" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-6---interferometría-sar">Tópico 6 - Interferometría SAR</h3>
 </section>
 </div>
 </div>
@@ -318,35 +312,35 @@ PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-PARTE 2 – APRENDIZAJE PROFUNDO (DEEP LEARNING)
+PARTE 2 – LIGHT DETECTION AND RANGING (LIDAR)
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<section id="semana-9-fundamentos-de-deep-learning-dl" class="level3">
-<h3 class="anchored" data-anchor-id="semana-9-fundamentos-de-deep-learning-dl">Semana 9 – Fundamentos de Deep Learning (DL)</h3>
+<section id="tópico-7-3d-data-representation-and-structuration" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-7-3d-data-representation-and-structuration">Tópico 7 – 3D Data Representation and Structuration</h3>
 </section>
-<section id="semana-10-redes-neuronales-convolucionales" class="level3">
-<h3 class="anchored" data-anchor-id="semana-10-redes-neuronales-convolucionales">Semana 10 – Redes neuronales convolucionales</h3>
+<section id="tópico-8-3d-data-visualization" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-8-3d-data-visualization">Tópico 8 – 3D Data Visualization</h3>
 </section>
-<section id="semana-11---clasificación-de-imágenes" class="level3">
-<h3 class="anchored" data-anchor-id="semana-11---clasificación-de-imágenes">Semana 11 - Clasificación de imágenes</h3>
+<section id="tópico-9---point-cloud-data-engineering" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-9---point-cloud-data-engineering">Tópico 9 - Point Cloud Data Engineering</h3>
 </section>
-<section id="semana-12---segmentación-semántica-i" class="level3">
-<h3 class="anchored" data-anchor-id="semana-12---segmentación-semántica-i">Semana 12 - Segmentación semántica I</h3>
+<section id="tópico-10---3d-data-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-10---3d-data-analysis">Tópico 10 - 3D Data Analysis</h3>
 </section>
-<section id="semana-13---deep-learning-for-remote-sensing" class="level3">
-<h3 class="anchored" data-anchor-id="semana-13---deep-learning-for-remote-sensing">Semana 13 - Deep Learning for remote sensing</h3>
+<section id="tópico-11---3d-shape-recognition" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-11---3d-shape-recognition">Tópico 11 - 3D Shape Recognition</h3>
 </section>
-<section id="semana-14---segmentación-semántica-ii" class="level3">
-<h3 class="anchored" data-anchor-id="semana-14---segmentación-semántica-ii">Semana 14 - Segmentación semántica II</h3>
+<section id="tópico-12---3d-modeling" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-12---3d-modeling">Tópico 12 - 3D Modeling</h3>
 </section>
-<section id="semana-15---aplicaciones-dl-en-vegetación" class="level3">
-<h3 class="anchored" data-anchor-id="semana-15---aplicaciones-dl-en-vegetación">Semana 15 - Aplicaciones DL en vegetación</h3>
+<section id="tópico-13---3d-building-reconstruction" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-13---3d-building-reconstruction">Tópico 13 - 3D Building Reconstruction</h3>
 </section>
-<section id="semana-16---aplicaciones-dl-en-recursos-hídricos" class="level3">
-<h3 class="anchored" data-anchor-id="semana-16---aplicaciones-dl-en-recursos-hídricos">Semana 16 - Aplicaciones DL en recursos hídricos</h3>
+<section id="tópico-14---3d-machine-learning" class="level3">
+<h3 class="anchored" data-anchor-id="tópico-14---3d-machine-learning">Tópico 14 - 3D Machine Learning</h3>
 </section>
 </div>
 </div>
