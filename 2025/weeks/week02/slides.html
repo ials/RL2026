@@ -10,9 +10,9 @@
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.7.34">
 
-  <meta name="author" content="Ivan Lizarazo">
-  <meta name="dcterms.date" content="28 August 2025">
-  <title>RADAR AND LIDAR – 🗓️ Week 01  Introduction</title>
+  <meta name="author" content="Ivan Lizarazo(#)">
+  <meta name="dcterms.date" content="4 September 2025">
+  <title>RADAR AND LIDAR – 🗓️ Week 02  SAR Basics</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -124,11 +124,11 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="🗓️ Week 01 Introduction – RADAR AND LIDAR">
-<meta property="og:description" content="2027948 – RADAR AND LIDAR REMOTE SENSING">
+<meta property="og:title" content="🗓️ Week 02 SAR Basics – RADAR AND LIDAR">
+<meta property="og:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta property="og:site_name" content="RADAR AND LIDAR">
-<meta name="twitter:title" content="🗓️ Week 01 Introduction – RADAR AND LIDAR">
-<meta name="twitter:description" content="2027948 – RADAR AND LIDAR REMOTE SENSING">
+<meta name="twitter:title" content="🗓️ Week 02 SAR Basics – RADAR AND LIDAR">
+<meta name="twitter:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
 <meta name="twitter:card" content="summary">
@@ -138,117 +138,192 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block">
-  <h1 class="title"><font style="font-size:1em;">🗓️ Week 01<br> Introduction</font></h1>
-  <p class="subtitle">2027948 – RADAR AND LIDAR REMOTE SENSING</p>
+  <h1 class="title"><font style="font-size:1em;">🗓️ Week 02<br> SAR Basics</font></h1>
+  <p class="subtitle">2027449– PERCEPCION REMOTA AVANZADA</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Ivan Lizarazo 
+Ivan Lizarazo(#) 
 </div>
         <p class="quarto-title-affiliation">
-            Universidad Nacional de Colombia
+            <a href="#/">Universidad Nacional de Colombia</a>
           </p>
     </div>
 </div>
 
-  <p class="date">28 Aug 2025</p>
+  <p class="date">04 Sep 2025</p>
 </section><section id="TOC">
 <nav role="doc-toc"> 
 <h2 id="toc-title">What we will cover today:</h2>
 <ul>
-<li><a href="#/who-are-we" id="/toc-who-are-we">Who are we</a></li>
-<li><a href="#/optical-sar-and-lidar" id="/toc-optical-sar-and-lidar">Optical, SAR and LiDAR</a></li>
-<li><a href="#/earth-orbiting-satellites-using-radar" id="/toc-earth-orbiting-satellites-using-radar">Earth orbiting satellites using radar</a></li>
-<li><a href="#/flipped-classroom" id="/toc-flipped-classroom">Flipped classroom</a></li>
-<li><a href="#/to-do-this-afternoon" id="/toc-to-do-this-afternoon">To do this afternoon</a></li>
+<li><a href="#/introduction" id="/toc-introduction">Introduction</a></li>
+<li><a href="#/whats-radar" id="/toc-whats-radar">What’s RADAR?</a></li>
+<li><a href="#/basic-radar-operation" id="/toc-basic-radar-operation">Basic Radar Operation</a></li>
+<li><a href="#/the-radar-equation" id="/toc-the-radar-equation">The Radar Equation</a></li>
+<li><a href="#/frequency-and-wavelength" id="/toc-frequency-and-wavelength">Frequency and Wavelength</a></li>
+<li><a href="#/polarization-and-scattering" id="/toc-polarization-and-scattering">Polarization and scattering</a></li>
+<li><a href="#/spatial-resolution" id="/toc-spatial-resolution">Spatial resolution</a></li>
 <li><a href="#/to-do-before-next-class" id="/toc-to-do-before-next-class">To do before next class</a></li>
 </ul>
 </nav>
 </section>
-<section>
-<section id="who-are-we" class="title-slide slide level1">
-<h1>Who are we</h1>
-
-</section>
-<section id="your-lecturer" class="slide level2 smaller">
-<h2>Your lecturer</h2>
-<div class="columns">
-<div class="column" style="display:inline-block;width:40%;height:60%;border-radius:1em;margin:1%;padding:1.5%;background-color:#f5f5f5">
-<figure>
-<img src="../../../figures/people/ials.png" alt="Professor Ivan Lizarazo" role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;font-size:1em;" class="img-responsive atto_image_button_text-bottom">
-<figcaption>
-<strong>Prof.&nbsp;<span><a href="#" target="_blank" class="external">Lizarazo</a></span></strong> <br>Investigador senior Minciencias <br>Investigador principal SDGnexus Network
-</figcaption>
-</figure>
-</div><div class="column" style="width:50%;font-size:0.85em;margin-left:3%;">
-<ul>
-<li><strong>PhD in Geography</strong></li>
-<li><strong>MSc in GIScience</strong></li>
-<li><strong>Background</strong>: Civil Engineer</li>
-</ul>
-<p><span class="tag" style="background-color:var(--quarto-hl-st-color)">machine and deep learning</span> <br> <span class="tag" style="background-color:var(--quarto-hl-fu-color)">Earth observation</span> <br> <span class="tag" style="background-color:var(--quarto-hl-dv-color)">Territorial sustainability</span></p>
-</div></div>
-</section>
-<section id="students" class="slide level2 smaller">
-<h2>Students</h2>
-<h3 id="please-introduce-yourselves">Please introduce yourselves</h3>
-<p>:::</p>
-</section></section>
-<section id="optical-sar-and-lidar" class="title-slide slide level1">
-<h1>Optical, SAR and LiDAR</h1>
-<p><a href="https://drive.google.com/file/d/1BeP8tRw6N4gE1sCtlpxlEEqcVl33spg2/view?usp=sharing">IL-SAR_LiDAR</a></p>
+<section id="introduction" class="title-slide slide level1">
+<h1>Introduction</h1>
+<p>Checking homework:</p>
+<ol type="1">
+<li><p>Reading (platform’s height)</p></li>
+<li><p>Practical (visualization)</p></li>
+<li><p>Video (SAR oblique view)</p></li>
+</ol>
 </section>
 
-<section id="earth-orbiting-satellites-using-radar" class="title-slide slide level1">
-<h1>Earth orbiting satellites using radar</h1>
-<p><a href="https://youtu.be/FJWzLxdSMyA">Sentinel-1 mission</a></p>
-<p><a href="https://www.bbc.com/future/article/20240524-the-satellites-using-radar-to-peer-at-earth-in-minute-detail?ocid=fbfut">BBC 24.05.2024</a></p>
+<section id="whats-radar" class="title-slide slide level1">
+<h1>What’s RADAR?</h1>
+<p>Based on the principle of <em>echolocation</em></p>
+<p>RAdio Detection and Ranging</p>
+<p>SAR is not just a radar: it is an imaging radar system,</p>
+<p>SAR’s antenna moves while emiting signals and receiving echos</p>
 </section>
+
+<section id="basic-radar-operation" class="title-slide slide level1">
+<h1>Basic Radar Operation</h1>
+<p>A pulse of duration <span class="math inline">\(\tau\)</span> travels at the speed of light <span class="math inline">\(c\)</span></p>
+<p>The two-way range distance between antena and target is the velocity times the time delay</p>
+<p>Thus, the range distance to the target is <span class="math inline">\(R = \frac {c\tau}{2}\)</span></p>
+</section>
+
+<section id="the-radar-equation" class="title-slide slide level1">
+<h1>The Radar Equation</h1>
+
+<img data-src="figures/radar_equation.png" class="img-fluid r-stretch"></section>
 
 <section>
-<section id="flipped-classroom" class="title-slide slide level1">
-<h1>Flipped classroom</h1>
+<section id="frequency-and-wavelength" class="title-slide slide level1">
+<h1>Frequency and Wavelength</h1>
 
 </section>
-<section id="reading-doing-and-writing" class="slide level2">
-<h2>Reading, doing and writing</h2>
-<p>A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking</p>
-</section></section>
+<section id="the-wavelengths" class="slide level2">
+<h2>The wavelengths</h2>
+
+<img data-src="figures/radar_longs.png" class="img-fluid r-stretch"></section>
+<section id="the-benefits" class="slide level2">
+<h2>The benefits</h2>
+
+<img data-src="figures/benefits.png" class="img-fluid r-stretch"></section>
+<section id="weather-independence" class="slide level2">
+<h2>Weather independence</h2>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Sentinel-1</th>
+<th>Sentinel-2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img data-src="figures/sentinel1.gif" class="img-fluid" alt="alt"></td>
+<td><img data-src="figures/sentinel2.gif" class="img-fluid" alt="alt"></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="radar-bands" class="slide level2">
+<h2>Radar bands</h2>
+
+<img data-src="figures/radar_bands.png" class="img-fluid r-stretch"></section>
+<section id="radar-signal-penetration" class="slide level2">
+<h2>Radar signal penetration</h2>
+
+<img data-src="figures/penetration.png" class="img-fluid r-stretch"></section></section>
 <section>
-<section id="to-do-this-afternoon" class="title-slide slide level1">
-<h1>To do this afternoon</h1>
+<section id="polarization-and-scattering" class="title-slide slide level1">
+<h1>Polarization and scattering</h1>
 
 </section>
-<section id="synthetic-aperture-radar-sar-basics" class="slide level2">
-<h2>Synthetic Aperture Radar (SAR) Basics</h2>
-<p><a href="https://developers.google.com/earth-engine/tutorials/community/sar-basics">GEE Tutorial</a></p>
-</section></section>
+<section id="electromagnetic-waves" class="slide level2">
+<h2>Electromagnetic waves</h2>
+
+<img data-src="figures/em_waves.png" class="img-fluid r-stretch"></section>
+<section id="polarization" class="slide level2">
+<h2>Polarization</h2>
+
+<img data-src="figures/polarization.png" class="img-fluid r-stretch"></section>
+<section id="sar-polarization" class="slide level2">
+<h2>SAR polarization</h2>
+
+<img data-src="figures/sar_polarization.png" class="img-fluid r-stretch"></section>
+<section id="backscattering" class="slide level2">
+<h2>Backscattering</h2>
+
+<img data-src="figures/scatterers.png" class="img-fluid r-stretch"></section>
+<section id="relative-scattering" class="slide level2">
+<h2>Relative scattering</h2>
+
+<img data-src="figures/relative.png" class="img-fluid r-stretch"></section>
+<section id="sar-signaturres" class="slide level2">
+<h2>SAR signaturres</h2>
+
+<img data-src="figures/pol_signatures.png" class="img-fluid r-stretch"></section></section>
+<section>
+<section id="spatial-resolution" class="title-slide slide level1">
+<h1>Spatial resolution</h1>
+
+</section>
+<section id="sar-system" class="slide level2">
+<h2>SAR system</h2>
+
+<img data-src="figures/sar_system.png" class="img-fluid r-stretch"></section>
+<section id="range-resolution" class="slide level2">
+<h2>Range resolution</h2>
+
+<img data-src="figures/range_res.png" class="img-fluid r-stretch"></section>
+<section id="azimuth-resolution" class="slide level2">
+<h2>Azimuth resolution</h2>
+
+<img data-src="figures/azi_res.png" class="img-fluid r-stretch"></section>
+<section id="speckle" class="slide level2">
+<h2>Speckle</h2>
+
+<img data-src="figures/speckle.png" class="img-fluid r-stretch"></section>
+<section id="geometric-distorsions" class="slide level2">
+<h2>Geometric distorsions</h2>
+
+<img data-src="figures/geometric.png" class="img-fluid r-stretch"></section>
+<section id="backscatter-variables" class="slide level2">
+<h2>Backscatter variables</h2>
+
+<img data-src="figures/table_variables.png" class="img-fluid r-stretch"></section>
+<section id="backscatter-reference-areas" class="slide level2">
+<h2>Backscatter reference areas</h2>
+
+<img data-src="figures/back_variables.png" class="img-fluid r-stretch"></section></section>
 <section>
 <section id="to-do-before-next-class" class="title-slide slide level1">
 <h1>To do before next class</h1>
 
 </section>
 <section id="read-this-document" class="slide level2">
-<h2>Read <a href="https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf">this document</a></h2>
-<p>This chapter focuses on Synthetic Aperture Radar (SAR) data. It provides an introduction to SAR systems and detail how data are acquired, whereas the main parameters are introduced. Radar systems are based on the interaction of the radar emitted and transmitted signals with targets.</p>
-<p>Frery, Wu and Gomez, 2022. <em>SAR Image Analysis— A Computational Statistics Approach with R Code, Data, and Applications</em></p>
+<h2>Read this document</h2>
+<p><a href="https://ceos.org/ard/files/Laymans_SAR_Interpretation_Guide_2.0.pdf">A layman interpretation guide to L-band and C-band SAR data</a></p>
+<p>CEOS (2018)</p>
 </section>
 <section id="watch-this-video" class="slide level2">
-<h2>Watch <a href="https://www.iceye.com/vos-talk1-video-page">this video</a></h2>
-<p>In this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.</p>
-<p>Speaker: Tom Ager (ICEYE)</p>
+<h2>Watch this video</h2>
+<p><a href="https://www.iceye.com/vos-talk2-video-page">See the world through SAR</a></p>
+<p>Tom Ager - ICEYE - 2023</p>
 </section>
-<section id="back-to-this-week-page" class="slide level2">
-<h2><a href="../../../2025/weeks/week01/page.html">Back to this week page</a></h2>
+<section id="next-practical-exercise" class="slide level2">
+<h2>Next practical exercise</h2>
+<p>Crop monitoring with Sentinel-1 data</p>
 
 
 </section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
-<p><img src="../../../figures/icons/SAR.png" class="slide-logo"></p>
+<p><img src="../../../figures/icons/ARS-1.png" class="slide-logo"></p>
 <div class="footer footer-default">
-<p>2027948 – RADAR AND LIDAR REMOTE SENSING</p>
+<p>2027449 – PERCEPCION REMOTA AVANZADA</p>
 </div>
 </div></div>
 
