@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>🗓️ Week 02 - Practical exercise – RADAR AND LIDAR</title>
+<title>🗓️ Week 03 - SAR response of soil and crops – RADAR AND LIDAR</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
+<link href="../../../2025/weeks/week02/page.html" rel="prev">
 <link href="../../../figures/icons/SAR.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -72,20 +73,14 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="🗓️ Week 02 - Practical exercise – RADAR AND LIDAR">
+<meta property="og:title" content="🗓️ Week 03 - SAR response of soil and crops – RADAR AND LIDAR">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://ials.github.io/LISAR/2025/weeks/week02/figures/SciHub.png">
 <meta property="og:site_name" content="RADAR AND LIDAR">
-<meta property="og:image:height" content="640">
-<meta property="og:image:width" content="1418">
-<meta name="twitter:title" content="🗓️ Week 02 - Practical exercise – RADAR AND LIDAR">
+<meta name="twitter:title" content="🗓️ Week 03 - SAR response of soil and crops – RADAR AND LIDAR">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://ials.github.io/LISAR/2025/weeks/week02/figures/SciHub.png">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
-<meta name="twitter:image-height" content="640">
-<meta name="twitter:image-width" content="1418">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-sidebar docked nav-fixed quarto-light">
@@ -114,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">🗓️ Week 02 - Practical exercise</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week03/page.html">Week 03</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -183,16 +178,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2025/weeks/week03/page.html" class="sidebar-item-text sidebar-link">
+            <a href="../../../2025/weeks/week03/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Week 03</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2025/weeks/week03/page.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../2025/weeks/week03/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -210,21 +205,19 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#tutorial-dataset" id="toc-tutorial-dataset" class="nav-link active" data-scroll-target="#tutorial-dataset">👨‍🏫 Tutorial Dataset</a>
-  <ul class="collapse">
-  <li><a href="#two-options-for-downloading-it" id="toc-two-options-for-downloading-it" class="nav-link" data-scroll-target="#two-options-for-downloading-it">Two options for downloading it:</a></li>
-  </ul></li>
-  <li><a href="#important" id="toc-important" class="nav-link" data-scroll-target="#important">✍️ Important</a></li>
-  <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
+  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
+  <li><a href="#practical-exercise" id="toc-practical-exercise" class="nav-link" data-scroll-target="#practical-exercise">Practical exercise</a></li>
+  <li><a href="#coursework" id="toc-coursework" class="nav-link" data-scroll-target="#coursework">📚 Coursework</a></li>
+  <li><a href="#recommended-resources" id="toc-recommended-resources" class="nav-link" data-scroll-target="#recommended-resources">📚 Recommended Resources</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week03/page.html">Week 03</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 02 - Practical exercise</h1>
+<h1 class="title">🗓️ Week 03 - SAR response of soil and crops</h1>
 </div>
 
 
@@ -247,84 +240,29 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this week, we will follow the <a href="http://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf">“SAR-based land cover classification tutorial”</a></p>
-<section id="tutorial-dataset" class="level2">
-<h2 class="anchored" data-anchor-id="tutorial-dataset">👨‍🏫 Tutorial Dataset</h2>
-<section id="two-options-for-downloading-it" class="level3">
-<h3 class="anchored" data-anchor-id="two-options-for-downloading-it">Two options for downloading it:</h3>
-<section id="copernicus-open-access-hub" class="level4">
-<h4 class="anchored" data-anchor-id="copernicus-open-access-hub"><a href="https://scihub.copernicus.eu/dhus">Copernicus Open Access Hub</a></h4>
+<p>In this week, we will review how soil and crops influence SAR response.</p>
+<p>In addition, we will follow a tutorial to learn how to classify crop using SAR multitemporal data.</p>
+<section id="lecture-slides" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
+<p>Click <a href="https://drive.google.com/file/d/15GIAV-TyYZ5NklJYCqq2Ad458RADKDHn/view">here</a> to understand the impact of soil and crops on SAR response.</p>
+<p>Click <a href="https://dges.carleton.ca/courses/IntroSAR/SECTION%206%20-%20Carleton%20SAR%20Training%20-%20Importance%20of%20Target%20%20-%20August%202019%20FINAL.pdf">here</a> to know why target characteristics matter</p>
 </section>
-<section id="alaska-satellite-facility" class="level4">
-<h4 class="anchored" data-anchor-id="alaska-satellite-facility"><a href="https://search.asf.alaska.edu/">Alaska Satellite Facility</a></h4>
-<p><em>In both cases, you need to register</em>.</p>
+<section id="practical-exercise" class="level2">
+<h2 class="anchored" data-anchor-id="practical-exercise">Practical exercise</h2>
+<p><strong>The tutorial material is <a href="../../../2025/weeks/week03/lab.html">here</a></strong></p>
 </section>
-<section id="search-and-download-the-following-products" class="level4">
-<h4 class="anchored" data-anchor-id="search-and-download-the-following-products">Search and download the following products:</h4>
-<p>S1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Search results at Copernicus Open Access Hub
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><img src="figures/SciHub.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Search results at Alaska Satellite Facility
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><img src="figures/ASF.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/ASF_downloads.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/ASF-Metadata.png" class="img-fluid" style="width:60.0%"></p>
-</div>
-</div>
-</div>
-<p>🎥</p>
-</section>
-</section>
-</section>
-<section id="important" class="level2">
-<h2 class="anchored" data-anchor-id="important">✍️ Important</h2>
-<p>🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-After ordering, you have to wait …
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><img src="figures/Sci_CART1.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/Sci_CART2.png" class="img-fluid" style="width:40.0%"></p>
-</div>
-</div>
-</div>
-</section>
-<section id="recommended-reading" class="level2">
-<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
+<section id="coursework" class="level2">
+<h2 class="anchored" data-anchor-id="coursework">📚 Coursework</h2>
 <ul>
-<li>Check the end of slides for the list of references cited in the lecture.</li>
+<li><p>Study <a href="https://www.icimod.org/capacity-building/2021/SERVIR%20flood%20inundation%20mapping%20service/QuickGuide_SAR_RGB_ICIMOD_Aug2021.pdf">SAR RGB Quick Guide</a></p></li>
+<li><p>Reproduce experiments for your <em>Informe No.&nbsp;1</em></p></li>
+</ul>
+</section>
+<section id="recommended-resources" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-resources">📚 Recommended Resources</h2>
+<ul>
+<li><p><a href="https://dataspace.copernicus.eu/news/2024-8-6-announcing-sentinel-1-monthly-mosaics-copernicus-data-space-ecosystem">Sentinel-1 Monthly Mosaics</a></p></li>
+<li><p><a href="https://www.iceye.com/the-value-of-sar/talk-3">ICEYE’s SAR PRODUCTS</a></p></li>
 </ul>
 
 
@@ -737,6 +675,15 @@ After ordering, you have to wait …
     }
   });
   </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../../../2025/weeks/week02/page.html" class="pagination-link" aria-label="Week 02">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 02</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
