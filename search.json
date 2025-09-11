@@ -1,5 +1,232 @@
 [
   {
+    "objectID": "2025/weeks/week05/slides.html#the-importance-of-workflows",
+    "href": "2025/weeks/week05/slides.html#the-importance-of-workflows",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The importance of workflows",
+    "text": "The importance of workflows"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-importance-of-documentation",
+    "href": "2025/weeks/week05/slides.html#the-importance-of-documentation",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The importance of documentation",
+    "text": "The importance of documentation"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#generic-workflow",
+    "href": "2025/weeks/week05/slides.html#generic-workflow",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Generic workflow",
+    "text": "Generic workflow"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#a-sar-workflow",
+    "href": "2025/weeks/week05/slides.html#a-sar-workflow",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "A SAR workflow",
+    "text": "A SAR workflow"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#another-workflow",
+    "href": "2025/weeks/week05/slides.html#another-workflow",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Another workflow",
+    "text": "Another workflow"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#burned-area-detection",
+    "href": "2025/weeks/week05/slides.html#burned-area-detection",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Burned area detection",
+    "text": "Burned area detection\nA workflow based on Sentinel-1 SAR data and open-source algorithms for unsupervised burned area detection in Mediterranean ecosystems\nWritten by De Luca, Silva and Modica (2021)."
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#de-lucas-paper-aim",
+    "href": "2025/weeks/week05/slides.html#de-lucas-paper-aim",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "De Luca’s paper aim",
+    "text": "De Luca’s paper aim"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-study-area",
+    "href": "2025/weeks/week05/slides.html#the-study-area",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The study area",
+    "text": "The study area"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-data",
+    "href": "2025/weeks/week05/slides.html#the-data",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The data",
+    "text": "The data"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-workflow",
+    "href": "2025/weeks/week05/slides.html#the-workflow",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The workflow",
+    "text": "The workflow"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-workflow-1",
+    "href": "2025/weeks/week05/slides.html#the-workflow-1",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The workflow …",
+    "text": "The workflow …"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-workflow-2",
+    "href": "2025/weeks/week05/slides.html#the-workflow-2",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The workflow …",
+    "text": "The workflow …"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-software",
+    "href": "2025/weeks/week05/slides.html#the-software",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The software",
+    "text": "The software"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-radar-indices",
+    "href": "2025/weeks/week05/slides.html#the-radar-indices",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The radar indices …",
+    "text": "The radar indices …"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#the-unsupervised-classification",
+    "href": "2025/weeks/week05/slides.html#the-unsupervised-classification",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "The unsupervised classification",
+    "text": "The unsupervised classification"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#classes-separation",
+    "href": "2025/weeks/week05/slides.html#classes-separation",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Classes separation",
+    "text": "Classes separation"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#classes-separation-1",
+    "href": "2025/weeks/week05/slides.html#classes-separation-1",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Classes separation",
+    "text": "Classes separation"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#thematic-accuracy",
+    "href": "2025/weeks/week05/slides.html#thematic-accuracy",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Thematic accuracy",
+    "text": "Thematic accuracy"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#additional-info",
+    "href": "2025/weeks/week05/slides.html#additional-info",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Additional info",
+    "text": "Additional info\nThe paper is available here"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#read-this-document",
+    "href": "2025/weeks/week05/slides.html#read-this-document",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Read this document",
+    "text": "Read this document\nGlobal seasonal Sentinel-1 interferometric coherence and backscatter data set\nKellndorfer et al. (2022)"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#watch-this-video",
+    "href": "2025/weeks/week05/slides.html#watch-this-video",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Watch this video",
+    "text": "Watch this video\nAnswer pressing questions on our world\nTom Ager (2023)"
+  },
+  {
+    "objectID": "2025/weeks/week05/slides.html#next-week-practical-exercise",
+    "href": "2025/weeks/week05/slides.html#next-week-practical-exercise",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Next week practical exercise",
+    "text": "Next week practical exercise\nDetecting changes in Sentinel-1 imagery (Mort Canty)"
+  },
+  {
+    "objectID": "2025/weeks/week05/lab.html",
+    "href": "2025/weeks/week05/lab.html",
+    "title": "🗓️ Week 5 - Practical exercise",
+    "section": "",
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repositorz and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html",
+    "href": "2025/weeks/week04/page.html",
+    "title": "🗓️ Week 04 - SAR physics revisited",
+    "section": "",
+    "text": "In this week, we will refresh basic concepts on SAR physics, define a workflow for radiometric terrain correction and geocoding, and explore Sentinel-1 data in GEE.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#lecture-slides",
+    "href": "2025/weeks/week04/page.html#lecture-slides",
+    "title": "🗓️ Week 04 - SAR physics revisited",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#first-report",
+    "href": "2025/weeks/week04/page.html#first-report",
+    "title": "🗓️ Week 04 - SAR physics revisited",
+    "section": "First report",
+    "text": "First report\nStudents decide the topic & study area for their first report",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#practical-exercise",
+    "href": "2025/weeks/week04/page.html#practical-exercise",
+    "title": "🗓️ Week 04 - SAR physics revisited",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nThe tutorial material is here",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#recommended-reading",
+    "href": "2025/weeks/week04/page.html#recommended-reading",
+    "title": "🗓️ Week 04 - SAR physics revisited",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\nAngular-Based Radiometric Slope Correction for Sentinel-1 on GEE\nVollrath et al. (2022)",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/page.html#recommended-video",
+    "href": "2025/weeks/week04/page.html#recommended-video",
+    "title": "🗓️ Week 04 - SAR physics revisited",
+    "section": "📚 Recommended Video",
+    "text": "📚 Recommended Video\n\nDisaster Response with AI and SAR (INce & Vancassel, 2023)",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
     "objectID": "2025/weeks/week03/slides.html#the-wavelengths",
     "href": "2025/weeks/week03/slides.html#the-wavelengths",
     "title": "🗓️ Week 03 SAR Basics",
@@ -648,6 +875,247 @@
     "crumbs": [
       "🗓️ Weeks",
       "Week 03"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week04/lab.html",
+    "href": "2025/weeks/week04/lab.html",
+    "title": "🗓️ Week 04 - Practical exercise",
+    "section": "",
+    "text": "In this week, we will explore SAR data in GEE:\n\nA presentation on GEE & SAR\nMake sure you replicate these tutorials with your own data & study area:\n\n\nGEE - Synthetic Aperture Radar (SAR) Basics\n\n\nGEE - Sentinel-1 Algorithms\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\nWorking with SAR data in GEE\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#bad-news-good-news",
+    "href": "2025/weeks/week04/slides.html#bad-news-good-news",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Bad news … good news",
+    "text": "Bad news … good news\nMicrowave remote sensing is a difficult subject. However, it is fascinating (Woodhouse, 2006)"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#optical-vs-radar-images",
+    "href": "2025/weeks/week04/slides.html#optical-vs-radar-images",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Optical vs radar images",
+    "text": "Optical vs radar images"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#radar-potential",
+    "href": "2025/weeks/week04/slides.html#radar-potential",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Radar Potential",
+    "text": "Radar Potential"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#radar-features",
+    "href": "2025/weeks/week04/slides.html#radar-features",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Radar Features",
+    "text": "Radar Features"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#radar-transmission",
+    "href": "2025/weeks/week04/slides.html#radar-transmission",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Radar transmission",
+    "text": "Radar transmission"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#the-radar-equation",
+    "href": "2025/weeks/week04/slides.html#the-radar-equation",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "The Radar Equation",
+    "text": "The Radar Equation"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#extended-targets",
+    "href": "2025/weeks/week04/slides.html#extended-targets",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Extended targets",
+    "text": "Extended targets"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#extended-targets-1",
+    "href": "2025/weeks/week04/slides.html#extended-targets-1",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Extended targets …",
+    "text": "Extended targets …"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#surface-scattering",
+    "href": "2025/weeks/week04/slides.html#surface-scattering",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Surface scattering",
+    "text": "Surface scattering"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#surface-scattering-1",
+    "href": "2025/weeks/week04/slides.html#surface-scattering-1",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Surface scattering …",
+    "text": "Surface scattering …"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#volumetric-scattering",
+    "href": "2025/weeks/week04/slides.html#volumetric-scattering",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Volumetric scattering",
+    "text": "Volumetric scattering"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#target-penetration",
+    "href": "2025/weeks/week04/slides.html#target-penetration",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Target penetration",
+    "text": "Target penetration"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#sensitivity-to-biomass",
+    "href": "2025/weeks/week04/slides.html#sensitivity-to-biomass",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Sensitivity to biomass",
+    "text": "Sensitivity to biomass"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#penetration-depth",
+    "href": "2025/weeks/week04/slides.html#penetration-depth",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Penetration depth",
+    "text": "Penetration depth"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#penetration-depth-1",
+    "href": "2025/weeks/week04/slides.html#penetration-depth-1",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Penetration depth …",
+    "text": "Penetration depth …"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#speckle-is-not-noise",
+    "href": "2025/weeks/week04/slides.html#speckle-is-not-noise",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Speckle is not noise",
+    "text": "Speckle is not noise"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#speckle-is-noise",
+    "href": "2025/weeks/week04/slides.html#speckle-is-noise",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Speckle is “noise”",
+    "text": "Speckle is “noise”"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#geometry-sar-vs-optics",
+    "href": "2025/weeks/week04/slides.html#geometry-sar-vs-optics",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Geometry: SAR vs optics",
+    "text": "Geometry: SAR vs optics"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#foreshortening",
+    "href": "2025/weeks/week04/slides.html#foreshortening",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Foreshortening",
+    "text": "Foreshortening"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#layover",
+    "href": "2025/weeks/week04/slides.html#layover",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Layover",
+    "text": "Layover"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#layover-1",
+    "href": "2025/weeks/week04/slides.html#layover-1",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Layover …",
+    "text": "Layover …"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#geometric-artifacts",
+    "href": "2025/weeks/week04/slides.html#geometric-artifacts",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Geometric artifacts",
+    "text": "Geometric artifacts"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#what-is-the-effect-of-each-correction",
+    "href": "2025/weeks/week04/slides.html#what-is-the-effect-of-each-correction",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "What is the effect of each correction?",
+    "text": "What is the effect of each correction?"
+  },
+  {
+    "objectID": "2025/weeks/week04/slides.html#read-this-document",
+    "href": "2025/weeks/week04/slides.html#read-this-document",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Read this document",
+    "text": "Read this document\nAngular-Based Radiometric Slope Correction for Sentinel-1 on GEE\nVollrath et al. (2022)"
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html",
+    "href": "2025/weeks/week05/page.html",
+    "title": "🗓️ Week 05 - Sentinel-1 ARD data",
+    "section": "",
+    "text": "In this week, we will learn how to prepare Sentinel-1 SAR Analysis Ready Data in GEE.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html#lecture-slides",
+    "href": "2025/weeks/week05/page.html#lecture-slides",
+    "title": "🗓️ Week 05 - Sentinel-1 ARD data",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html#informe-no.-1",
+    "href": "2025/weeks/week05/page.html#informe-no.-1",
+    "title": "🗓️ Week 05 - Sentinel-1 ARD data",
+    "section": "Informe No. 1",
+    "text": "Informe No. 1\nUpload your report on time",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html#practical-exercise",
+    "href": "2025/weeks/week05/page.html#practical-exercise",
+    "title": "🗓️ Week 05 - Sentinel-1 ARD data",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nThe tutorial material is here",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html#recommended-reading",
+    "href": "2025/weeks/week05/page.html#recommended-reading",
+    "title": "🗓️ Week 05 - Sentinel-1 ARD data",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\nGlobal seasonal Sentinel-1 interferometric coherence and backscatter data set",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week05/page.html#recommended-video",
+    "href": "2025/weeks/week05/page.html#recommended-video",
+    "title": "🗓️ Week 05 - Sentinel-1 ARD data",
+    "section": "📚 Recommended Video",
+    "text": "📚 Recommended Video\n\nAnswer pressing questions on our world (Ager, 2023)",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
     ]
   }
 ]
