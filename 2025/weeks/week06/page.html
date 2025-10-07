@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>🗓️ Week 04 - SAR physics revisited – RADAR AND LIDAR</title>
+<title>🗓️ Week 07 - SAR Interferometry – RADAR AND LIDAR</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../2025/weeks/week05/page.html" rel="next">
-<link href="../../../2025/weeks/week03/page.html" rel="prev">
+<link href="../../../2025/weeks/week07/page.html" rel="next">
+<link href="../../../2025/weeks/week05/page.html" rel="prev">
 <link href="../../../figures/icons/SAR.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -75,10 +75,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="🗓️ Week 04 - SAR physics revisited – RADAR AND LIDAR">
+<meta property="og:title" content="🗓️ Week 07 - SAR Interferometry – RADAR AND LIDAR">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="RADAR AND LIDAR">
-<meta name="twitter:title" content="🗓️ Week 04 - SAR physics revisited – RADAR AND LIDAR">
+<meta name="twitter:title" content="🗓️ Week 07 - SAR Interferometry – RADAR AND LIDAR">
 <meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week04/page.html">Week 04</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week06/page.html">Week 06</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -203,16 +203,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2025/weeks/week04/page.html" class="sidebar-item-text sidebar-link active">
+            <a href="../../../2025/weeks/week04/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week 04</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2025/weeks/week04/page.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../2025/weeks/week04/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -237,16 +237,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2025/weeks/week06/page.html" class="sidebar-item-text sidebar-link">
+            <a href="../../../2025/weeks/week06/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Week 06</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2025/weeks/week06/page.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../2025/weeks/week06/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -282,19 +282,18 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
-  <li><a href="#first-report" id="toc-first-report" class="nav-link" data-scroll-target="#first-report">First report</a></li>
+  <li><a href="#first-draft-of-your-poster" id="toc-first-draft-of-your-poster" class="nav-link" data-scroll-target="#first-draft-of-your-poster">First draft of your poster</a></li>
   <li><a href="#practical-exercise" id="toc-practical-exercise" class="nav-link" data-scroll-target="#practical-exercise">Practical exercise</a></li>
   <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
-  <li><a href="#recommended-video" id="toc-recommended-video" class="nav-link" data-scroll-target="#recommended-video">📚 Recommended Video</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week04/page.html">Week 04</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week06/page.html">Week 06</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 04 - SAR physics revisited</h1>
+<h1 class="title">🗓️ Week 07 - SAR Interferometry</h1>
 </div>
 
 
@@ -317,29 +316,22 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this week, we will refresh basic concepts on SAR physics, define a workflow for radiometric terrain correction and geocoding, and explore Sentinel-1 data in GEE.</p>
+<p>In this week, we will review the first draft of your SAR poster.</p>
 <section id="lecture-slides" class="level2">
 <h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
-<p>Click <a href="../../../2025/weeks/week04/slides.html">here</a> to view the slides.</p>
+<p>Click <a href="https://ethz.ch/content/dam/ethz/special-interest/usys/ibp/soil-terrestrial-env-physics-dam/education/sientific_comm/2015/3-creating_scientific_poster_ethz_2015.pdf">here</a> to view the slides.</p>
 </section>
-<section id="first-report" class="level2">
-<h2 class="anchored" data-anchor-id="first-report">First report</h2>
-<p><strong>Students decide the topic &amp; study area for their first report</strong></p>
+<section id="first-draft-of-your-poster" class="level2">
+<h2 class="anchored" data-anchor-id="first-draft-of-your-poster">First draft of your poster</h2>
+<p><strong>Students upload their first draft on time</strong> at <a href="https://drive.google.com/drive/folders/1BIVDWJ3erFXB39ENFKYcsNybggJPCPlQ?usp=drive_link">this link</a>.</p>
 </section>
 <section id="practical-exercise" class="level2">
 <h2 class="anchored" data-anchor-id="practical-exercise">Practical exercise</h2>
-<p>The tutorial material is <a href="../../../2025/weeks/week04/lab.html">here</a></p>
+<p>Students keep working on their reproducibility experiment for their first report.</p>
 </section>
 <section id="recommended-reading" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
-<p><a href="https://www.mdpi.com/2072-4292/12/11/1867">Angular-Based Radiometric Slope Correction for Sentinel-1 on GEE</a></p>
-<p>Vollrath et al.&nbsp;(2022)</p>
-</section>
-<section id="recommended-video" class="level2">
-<h2 class="anchored" data-anchor-id="recommended-video">📚 Recommended Video</h2>
-<ul>
-<li><a href="https://www.capellaspace.com/webinar/revolutionizing-disaster-response-with-ai-and-24-7-all-weather-sar-imagery">Disaster Response with AI and SAR</a> (INce &amp; Vancassel, 2023)</li>
-</ul>
+<p><a href="https://www.nature.com/articles/533452a">1,500 scientists lift the lid on reproducibility</a></p>
 
 
 </section>
@@ -754,13 +746,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../2025/weeks/week03/page.html" class="pagination-link" aria-label="Week 03">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 03</span>
+      <a href="../../../2025/weeks/week05/page.html" class="pagination-link" aria-label="Week 05">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 05</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../2025/weeks/week05/page.html" class="pagination-link" aria-label="Week 05">
-        <span class="nav-page-text">Week 05</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../../2025/weeks/week07/page.html" class="pagination-link" aria-label="Week 07">
+        <span class="nav-page-text">Week 07</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
