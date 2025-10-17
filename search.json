@@ -1,5 +1,145 @@
 [
   {
+    "objectID": "2025/weeks/week09/slides.html#neuronal-math",
+    "href": "2025/weeks/week09/slides.html#neuronal-math",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Neuronal math",
+    "text": "Neuronal math"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#the-sigmoid-function",
+    "href": "2025/weeks/week09/slides.html#the-sigmoid-function",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "The sigmoid function",
+    "text": "The sigmoid function"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#coding-a-neuron",
+    "href": "2025/weeks/week09/slides.html#coding-a-neuron",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Coding a neuron",
+    "text": "Coding a neuron"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#a-simple-network",
+    "href": "2025/weeks/week09/slides.html#a-simple-network",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "A simple network",
+    "text": "A simple network"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#feedforward",
+    "href": "2025/weeks/week09/slides.html#feedforward",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Feedforward",
+    "text": "Feedforward"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#data-network",
+    "href": "2025/weeks/week09/slides.html#data-network",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Data & Network",
+    "text": "Data & Network"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#pre-processing",
+    "href": "2025/weeks/week09/slides.html#pre-processing",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Pre-processing",
+    "text": "Pre-processing"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#loss-function-backpropagation",
+    "href": "2025/weeks/week09/slides.html#loss-function-backpropagation",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Loss function & Backpropagation",
+    "text": "Loss function & Backpropagation"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#stochastic-gradient-descent",
+    "href": "2025/weeks/week09/slides.html#stochastic-gradient-descent",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Stochastic Gradient Descent",
+    "text": "Stochastic Gradient Descent"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#gradient-descent-methods",
+    "href": "2025/weeks/week09/slides.html#gradient-descent-methods",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Gradient descent methods",
+    "text": "Gradient descent methods"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#training-process",
+    "href": "2025/weeks/week09/slides.html#training-process",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Training process",
+    "text": "Training process"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#coding-1",
+    "href": "2025/weeks/week09/slides.html#coding-1",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Coding 1",
+    "text": "Coding 1"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#coding-2",
+    "href": "2025/weeks/week09/slides.html#coding-2",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Coding 2",
+    "text": "Coding 2"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#coding-3",
+    "href": "2025/weeks/week09/slides.html#coding-3",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Coding 3",
+    "text": "Coding 3"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#coding-4",
+    "href": "2025/weeks/week09/slides.html#coding-4",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Coding 4",
+    "text": "Coding 4"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#coding-5",
+    "href": "2025/weeks/week09/slides.html#coding-5",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Coding 5",
+    "text": "Coding 5"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#coding-6",
+    "href": "2025/weeks/week09/slides.html#coding-6",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Coding 6",
+    "text": "Coding 6"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#coding-7",
+    "href": "2025/weeks/week09/slides.html#coding-7",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Coding 7",
+    "text": "Coding 7"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#loss-vs-epochs",
+    "href": "2025/weeks/week09/slides.html#loss-vs-epochs",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "Loss vs epochs",
+    "text": "Loss vs epochs"
+  },
+  {
+    "objectID": "2025/weeks/week09/slides.html#references",
+    "href": "2025/weeks/week09/slides.html#references",
+    "title": "🗓️ Week 09 An introduction to ANN",
+    "section": "References",
+    "text": "References\n\nMachine Learning for Beginners: An Introduction to Neural Networks\n\nhttps://victorzhou.com/blog/intro-to-neural-networks/\n\nA Visual Explanation of Gradient Descent Methods (Momentum, AdaGrad, RMSProp, Adam)\n\nhttps://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c"
+  },
+  {
     "objectID": "2025/weeks/week08/page.html",
     "href": "2025/weeks/week08/page.html",
     "title": "🗓️ Week 08 - Surface soil moisture",
@@ -1277,6 +1417,50 @@
     "crumbs": [
       "🗓️ Weeks",
       "Week 07"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html",
+    "href": "2025/weeks/week09/page.html",
+    "title": "🗓️ Week 10 -Introduction to LiDAR",
+    "section": "",
+    "text": "Light detection and ranging (LiDAR) is a combination of laser technology and photoelectric detection technology. It uses a laser as a light source to transmit high-frequency laser pulses to the target and a photodetector as a device to receive the returned signal from the target.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html#lecture-slides",
+    "href": "2025/weeks/week09/page.html#lecture-slides",
+    "title": "🗓️ Week 10 -Introduction to LiDAR",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nAn Introduction to LiDAR.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html#practical-exercise",
+    "href": "2025/weeks/week09/page.html#practical-exercise",
+    "title": "🗓️ Week 10 -Introduction to LiDAR",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nReproduce the following R Notebook:\nChecking and pre-processing Airborne Laser Scanning data",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html#required-readings",
+    "href": "2025/weeks/week09/page.html#required-readings",
+    "title": "🗓️ Week 10 -Introduction to LiDAR",
+    "section": "📚 Required Readings",
+    "text": "📚 Required Readings\nhttps://coast.noaa.gov/elearning/lidar/intro/\nIntroduction to LiDAR",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
     ]
   }
 ]
