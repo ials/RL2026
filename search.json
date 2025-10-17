@@ -1422,7 +1422,7 @@
   {
     "objectID": "2025/weeks/week09/page.html",
     "href": "2025/weeks/week09/page.html",
-    "title": "🗓️ Week 10 -Introduction to LiDAR",
+    "title": "🗓️ Week 9 -Introduction to LiDAR",
     "section": "",
     "text": "Light detection and ranging (LiDAR) is a combination of laser technology and photoelectric detection technology. It uses a laser as a light source to transmit high-frequency laser pulses to the target and a photodetector as a device to receive the returned signal from the target.",
     "crumbs": [
@@ -1433,7 +1433,7 @@
   {
     "objectID": "2025/weeks/week09/page.html#lecture-slides",
     "href": "2025/weeks/week09/page.html#lecture-slides",
-    "title": "🗓️ Week 10 -Introduction to LiDAR",
+    "title": "🗓️ Week 9 -Introduction to LiDAR",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nAn Introduction to LiDAR.",
     "crumbs": [
@@ -1444,7 +1444,7 @@
   {
     "objectID": "2025/weeks/week09/page.html#practical-exercise",
     "href": "2025/weeks/week09/page.html#practical-exercise",
-    "title": "🗓️ Week 10 -Introduction to LiDAR",
+    "title": "🗓️ Week 9 -Introduction to LiDAR",
     "section": "Practical exercise",
     "text": "Practical exercise\nReproduce the following R Notebook:\nChecking and pre-processing Airborne Laser Scanning data",
     "crumbs": [
@@ -1455,7 +1455,7 @@
   {
     "objectID": "2025/weeks/week09/page.html#required-readings",
     "href": "2025/weeks/week09/page.html#required-readings",
-    "title": "🗓️ Week 10 -Introduction to LiDAR",
+    "title": "🗓️ Week 9 -Introduction to LiDAR",
     "section": "📚 Required Readings",
     "text": "📚 Required Readings\nUnderstanding LAS and LAZ file formats\nLAS Format Definition\nIntroduction to LiDAR",
     "crumbs": [
