@@ -1462,5 +1462,49 @@
       "🗓️ Weeks",
       "Week 09"
     ]
+  },
+  {
+    "objectID": "2025/weeks/week10/page.html",
+    "href": "2025/weeks/week10/page.html",
+    "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
+    "section": "",
+    "text": "In this week, we will learn the ranging principle of LiDAR systems, including pulsed LiDAR and phased LiDAR. Then, the LiDAR radiation principle will be introduced based on the LiDAR equation. The commonly used LiDAR waveform model and LiDAR radiative transfer model will be also presented. After that, we systematically know the principles of LiDAR systems with different platforms (spaceborne/airborne/terrestrial) and different methods of detection and digitization (full wave- form/discrete return/photon counting). Finally, the influence mechanisms of the sky environment (atmosphere and sunlight) on the LiDAR signal will be analyzed.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week10/page.html#lecture-slides",
+    "href": "2025/weeks/week10/page.html#lecture-slides",
+    "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nUnder construction.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week10/page.html#practical-exercise",
+    "href": "2025/weeks/week10/page.html#practical-exercise",
+    "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nThe notebook below presents a workflow to prepare tree-level inventory data for the calibration of area-based models with ALS data and field measurements. Make sure you reproduce it during this week:\n[Area-based approach 1: data preparation] (https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/area-based.1.data.preparation.html)",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week10/page.html#required-reading",
+    "href": "2025/weeks/week10/page.html#required-reading",
+    "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
+    "section": "📚 Required Reading",
+    "text": "📚 Required Reading\nLiDAR Remote Sensing Principles",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 10"
+    ]
   }
 ]
