@@ -1490,7 +1490,7 @@
     "href": "2025/weeks/week10/page.html#practical-exercise",
     "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
     "section": "Practical exercise",
-    "text": "Practical exercise\nThe notebook below presents a workflow to prepare tree-level inventory data for the calibration of area-based models with ALS data and field measurements. Make sure you reproduce it during this week:\nArea-based approach 1: data preparation",
+    "text": "Practical exercise\nThe notebook below presents a workflow to prepare tree-level inventory data for the calibration of area-based models with ALS data and field measurements. Make sure you reproduce it during this week:\nArea-based approach 1: data preparation\nThe resulting html should look similar to this one.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 10"
