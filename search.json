@@ -1506,5 +1506,49 @@
       "🗓️ Weeks",
       "Week 10"
     ]
+  },
+  {
+    "objectID": "2025/weeks/week11/page.html",
+    "href": "2025/weeks/week11/page.html",
+    "title": "🗓️ Week 11 -Forest metrics from LiDAR",
+    "section": "",
+    "text": "In this week, we will learn how to extract metrics used in forestry from laser scanning/LiDAR data.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week11/page.html#lecture-slides",
+    "href": "2025/weeks/week11/page.html#lecture-slides",
+    "title": "🗓️ Week 11 -Forest metrics from LiDAR",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nLiDAR Applications in Forestry.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week11/page.html#practical-exercise",
+    "href": "2025/weeks/week11/page.html#practical-exercise",
+    "title": "🗓️ Week 11 -Forest metrics from LiDAR",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nSelect the track most convenient for you:\n\nR Track\nForest structure metrics extraction\n\n\nPython Track\nGetting started with pyForMetrix",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week11/page.html#required-reading",
+    "href": "2025/weeks/week11/page.html#required-reading",
+    "title": "🗓️ Week 11 -Forest metrics from LiDAR",
+    "section": "📚 Required reading",
+    "text": "📚 Required reading\nComparing ALS and Image-Based Point Cloud Metrics and Modelled Forest Inventory Attributes in a Complex Coastal Forest Environment.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
   }
 ]
