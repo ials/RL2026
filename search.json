@@ -1595,7 +1595,7 @@
     "href": "2025/weeks/week12/page.html#lecture",
     "title": "🗓️ Week 12 -Change analysis using LiDAR",
     "section": "👨‍🏫 Lecture",
-    "text": "👨‍🏫 Lecture\nLandslide Monitoring Using UAS and Multiscale Model-to-Model Cloud Comparison\nMultitemporal and multi-sensor observation.",
+    "text": "👨‍🏫 Lecture\n(Change detection on 3D Point Clouds)(https://drive.google.com/file/d/1mpwSjvablinO2Bjj1HtpyjOPAUEURN6t/view?usp=sharing)\nLandslide Monitoring Using UAS and Multiscale Model-to-Model Cloud Comparison\nMultitemporal and multi-sensor observation.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 12"
@@ -1606,7 +1606,7 @@
     "href": "2025/weeks/week12/page.html#practical-exercise",
     "title": "🗓️ Week 12 -Change analysis using LiDAR",
     "section": "👨 Practical exercise",
-    "text": "👨 Practical exercise\nReproduce this notebook to perform a surface change analysis on TLS point clouds of a rock glacier for two consecutive years.",
+    "text": "👨 Practical exercise\nRead Use case: Multitemporal and multi-sensor observation of the active rock glacier Äußeres Hochebenkar (Austria).\nThen, reproduce this notebook to perform a surface change analysis on TLS point clouds of a rock glacier for two consecutive years.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 12"
