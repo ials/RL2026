@@ -1718,11 +1718,11 @@
     ]
   },
   {
-    "objectID": "2025/weeks/week14/page.html#practical-exercise",
-    "href": "2025/weeks/week14/page.html#practical-exercise",
+    "objectID": "2025/weeks/week14/page.html#practical-exercises",
+    "href": "2025/weeks/week14/page.html#practical-exercises",
     "title": "🗓️ Week 14 - GEDI LiDAR",
-    "section": "Practical exercise",
-    "text": "Practical exercise\n\nAccess GEDI L4B Dataset with OGC Web Services\n\nExploring gediDB functionalities",
+    "section": "Practical exercises",
+    "text": "Practical exercises\n\nAccess GEDI L4B Dataset with OGC Web Services\nExploring gediDB functionalities",
     "crumbs": [
       "🗓️ Weeks",
       "Week 14"
