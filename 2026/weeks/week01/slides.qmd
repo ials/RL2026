@@ -3,8 +3,8 @@ subtitle: " 2027948 -- RADAR AND LIDAR REMOTE SENSING"
 title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Introduction</font>"
 author: Ivan Lizarazo
 institute: 'Universidad Nacional de Colombia'
-date: 28 August 2025
-date-meta: 28 August 2025
+date: 27 August 2026
+date-meta: 27 August 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
