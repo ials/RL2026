@@ -1,6 +1,6 @@
 ---
 title: "2027948 - RADAR AND LIDAR REMOTE SENSING"
-subtitle: "Academic Year: 2025"
+subtitle: "Academic Year: 2026"
 format: html
 ---
 ## PREREQUISITOS:
@@ -35,7 +35,6 @@ format: html
 -  *PARTE 2:* R, Python & Jupyter & Google Colaboratory
 :::
 
-
 ## CONTENIDO DETALLADO 
 
 ::: {.callout-important collapse=true}
@@ -46,7 +45,7 @@ format: html
 
 ### Topic 2 - Basic processing of SAR images - SNAP
 
-### Topic 3 – Propiedades radiativas de suelos y vegetación
+### Topic 3 – Radiative properties of soils and vegetation
 
 ### Topic 4 – Basic processing of SAR images - GEE 
 
@@ -92,20 +91,18 @@ Lecture: Chapter 5 of Wang et al. (2024)
 
 ::: {.callout-important collapse=false}
 
--	Presentación de dos exámenes escritos sobre aspectos teóricos (50%)
-    - Examen 1 - 25 de Septiembre
-    - Examen 2 - 27 de Noviembre
+-	Presentación de dos exámenes escritos (50%)
+    - Examen 1 - 8 de Octubre
+    - Examen 2 - 26 de Noviembre
 -	Entrega de dos informes técnicos  (50%)
-    - Informe 1 - 2 de Octubre
-    - Informe 2 - 4 de Diciembre
+    - Informe 1 - 15 de Octubre
+    - Informe 2 - 3 de Diciembre
 
 :::
 
 ## BIBLIOGRAFIA
 
 ::: {.callout-important collapse=true}
-
-Chollet, F. Deep Learning with Python [2nd ed.],  Manning, 2021. 504 pp.
 
 De Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.
 
