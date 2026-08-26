@@ -33,6 +33,13 @@ format: html
 ### SOFTWARE
 -  *PARTE 1:* GEE, Python, Sentinel-1 Toolbox (S1TBX) 
 -  *PARTE 2:* R, Python & Jupyter & Google Colaboratory
+
+### USO DE INTELIGENCIA ARTIFICIAL
+
+Los estudiantes pueden usar herramientas de  Inteligencia Artifical  como un apoyo, y no como un sustituto, del pensamiento, el esfuerzo y el estilo personal.
+
+### ASISTENCIA OBLIGATORIA
+
 :::
 
 ## CONTENIDO DETALLADO 
@@ -91,10 +98,10 @@ Lecture: Chapter 5 of Wang et al. (2024)
 
 ::: {.callout-important collapse=false}
 
--	Presentación de dos exámenes escritos (50%)
+-	Presentación de dos exámenes (50%)
     - Examen 1 - 8 de Octubre
     - Examen 2 - 26 de Noviembre
--	Entrega de dos informes técnicos  (50%)
+-	Entrega de dos informes técnicos (50%)
     - Informe 1 - 15 de Octubre
     - Informe 2 - 3 de Diciembre
 

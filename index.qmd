@@ -14,7 +14,6 @@ format:
 
 # 🎯 Learning Objectives
 
-
 - The course aims to equip participants with a comprehensive understanding of both SAR and LiDAR techniques. 
 
 - It will explore the unique capabilities and limitations of each technology. 
@@ -22,6 +21,14 @@ format:
 - Participants will learn how to process and analyze data from both SAR and LiDAR systems. 
 
 - The course will emphasize  theory and application exercises of these technologies. 
+
+# Class Atendance Policy
+
+Students are expected to attend all classes. Occasional absences due to illness are considered excused. Participation in university activities must be requested in advance.
+
+# Artificial Intelligence Policy
+
+Students may use generative AI to support —not replace— their own thinking, effort, and style. In any case, the use of generative AI is permitted for up to 50% of the submitted work.
 
 -----------------
 
