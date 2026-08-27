@@ -62,6 +62,56 @@ format:
 
 :::
 
+# SAR basics
+
+## SAR Fundamentals
+
+![](figs/R1.png)
+
+## Optical vs SAR sensors
+
+![](figs/R2.png)
+
+## microwaves electromagnetic spectrum
+
+![](figs/R3.png)
+
+## SAR band wavelengths
+
+![](figs/R4.png)
+
+## SAR backscatter is influenced by physics
+
+![](figs/R5.png)
+
+## Dielectic constant matters
+
+![](figs/R6.png)
+
+## What SAR measures
+
+![](figs/R7.png)
+
+## SAR processing levels
+
+![](figs/R8.png)
+
+## SAR polarization
+
+![](figs/R9.png)
+
+## SAR geometry
+
+![](figs/R10.png)
+
+## SAR orientation
+
+![](figs/R11.png)
+
+## SAR distorsions
+
+![](figs/R12.png)
+
 # Optical, SAR and LiDAR
 
 [IL-SAR_LiDAR](https://drive.google.com/file/d/1BeP8tRw6N4gE1sCtlpxlEEqcVl33spg2/view?usp=sharing)
@@ -80,7 +130,7 @@ format:
 A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
 
 
-# To do this afternoon 
+# To do at home 
 
 ## Synthetic Aperture Radar (SAR) Basics
 
