@@ -57,12 +57,18 @@ Thus, the range distance to the target is $R = \frac {c\Delta T}{2}$
 ## Measuring the backscatter
 
 ![](figures/measuring.png)
+
 ## Radar collection angles
 
 ![](figures/collection.png)
+
 ## Range and azimuth dimension
 
 ![](figures/ra_dimension.png)
+
+## Side-looking geometry 
+
+![](figures/pyramids.png)
 
 # [The Radar Equation](https://www.radartutorial.eu/01.basics/The%20Radar%20Range%20Equation.en.html)
 
@@ -113,7 +119,7 @@ Sentinel-1 | Sentinel-2
 
 ![](figures/relative.png)
 
-## SAR signaturres
+## SAR signatures
 
 ![](figures/pol_signatures.png)
 

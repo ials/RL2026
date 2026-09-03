@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "2026/weeks/week02/slides.html#radar-is-an-echo-measurement-system",
+    "href": "2026/weeks/week02/slides.html#radar-is-an-echo-measurement-system",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar is an echo measurement system",
+    "text": "Radar is an echo measurement system\nA pulse of duration \\(\\tau\\) travels at the speed of light \\(c\\)\nThe two-way range distance between antena and target is the velocity times the time delay \\(\\Delta T\\)\nThus, the range distance to the target is \\(R = \\frac {c\\Delta T}{2}\\)"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#measuring-the-backscatter",
+    "href": "2026/weeks/week02/slides.html#measuring-the-backscatter",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Measuring the backscatter",
+    "text": "Measuring the backscatter\n ## Radar collection angles\n ## Range and azimuth dimension"
+  },
+  {
     "objectID": "2026/weeks/week02/slides.html#the-wavelengths",
     "href": "2026/weeks/week02/slides.html#the-wavelengths",
     "title": "🗓️ Week 02 SAR Basics",
