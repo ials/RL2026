@@ -11,7 +11,28 @@
     "href": "2026/weeks/week02/slides.html#measuring-the-backscatter",
     "title": "🗓️ Week 02 SAR Basics",
     "section": "Measuring the backscatter",
-    "text": "Measuring the backscatter\n ## Radar collection angles\n ## Range and azimuth dimension"
+    "text": "Measuring the backscatter"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#radar-collection-angles",
+    "href": "2026/weeks/week02/slides.html#radar-collection-angles",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar collection angles",
+    "text": "Radar collection angles"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#range-and-azimuth-dimension",
+    "href": "2026/weeks/week02/slides.html#range-and-azimuth-dimension",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Range and azimuth dimension",
+    "text": "Range and azimuth dimension"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#side-looking-geometry",
+    "href": "2026/weeks/week02/slides.html#side-looking-geometry",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Side-looking geometry",
+    "text": "Side-looking geometry"
   },
   {
     "objectID": "2026/weeks/week02/slides.html#the-wavelengths",
@@ -84,11 +105,11 @@
     "text": "Relative scattering"
   },
   {
-    "objectID": "2026/weeks/week02/slides.html#sar-signaturres",
-    "href": "2026/weeks/week02/slides.html#sar-signaturres",
+    "objectID": "2026/weeks/week02/slides.html#sar-signatures",
+    "href": "2026/weeks/week02/slides.html#sar-signatures",
     "title": "🗓️ Week 02 SAR Basics",
-    "section": "SAR signaturres",
-    "text": "SAR signaturres"
+    "section": "SAR signatures",
+    "text": "SAR signatures"
   },
   {
     "objectID": "2026/weeks/week02/slides.html#sar-system",

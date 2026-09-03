@@ -133,6 +133,20 @@ Sentinel-1 | Sentinel-2
 
 ![](figures/range_res.png)
 
+
+## Two distinct reflections
+
+![](figures/two_houses.png)
+
+
+
+## Real vs Synthetic Aperture
+
+
+![](figures/SyntethicRadar.png)
+
+
+
 ## Azimuth resolution
 
 ![](figures/azi_res.png)
