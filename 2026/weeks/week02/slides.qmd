@@ -136,7 +136,7 @@ Sentinel-1 | Sentinel-2
 
 ## Two distinct reflections
 
-![](figures/two_houses.png)
+![](figures/Two_houses.png)
 
 
 
