@@ -7,8 +7,8 @@
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.18">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.7.33">
 
   <meta name="author" content="Ivan Lizarazo">
   <meta name="dcterms.date" content="3 September 2026">
@@ -19,16 +19,10 @@
   <link rel="stylesheet" href="../../../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../../../site_libs/revealjs/dist/reveal.css">
   <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
+    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: 1.5em;}
-    div.column{flex: auto;}
-    @media screen {
-    div.columns{gap: min(4vw, 1.5em);}
-    div.column{overflow-x: auto;}
-    }
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -37,7 +31,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/theme/quarto-0427d8d92a431aa6a6430e53ec02a470.css">
+  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/theme/quarto-2c1b5f745a11cfad616ebade4a4a7d24.css">
   <link rel="stylesheet" href="../../../css/styles_slides.css">
   <link href="../../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -150,7 +144,7 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Ivan Lizarazo
+Ivan Lizarazo 
 </div>
         <p class="quarto-title-affiliation">
             <a href="#/">Universidad Nacional de Colombia</a>
@@ -165,7 +159,7 @@ Ivan Lizarazo
 <ul>
 <li><a href="#/introduction" id="/toc-introduction">Introduction</a></li>
 <li><a href="#/whats-radar" id="/toc-whats-radar">What’s RADAR?</a></li>
-<li><a href="#/basic-radar-operation" id="/toc-basic-radar-operation">Basic Radar Operation</a></li>
+<li><a href="#/radar-operation" id="/toc-radar-operation">Radar Operation</a></li>
 <li><a href="#/the-radar-equation" id="/toc-the-radar-equation">The Radar Equation</a></li>
 <li><a href="#/frequency-and-wavelength" id="/toc-frequency-and-wavelength">Frequency and Wavelength</a></li>
 <li><a href="#/polarization-and-scattering" id="/toc-polarization-and-scattering">Polarization and scattering</a></li>
@@ -178,9 +172,9 @@ Ivan Lizarazo
 <h1>Introduction</h1>
 <p>Checking homework:</p>
 <ol type="1">
-<li><p>Reading (platform’s height)</p></li>
-<li><p>Practical (visualization)</p></li>
-<li><p>Video (SAR oblique view)</p></li>
+<li><p>Reading</p></li>
+<li><p>Practical</p></li>
+<li><p>Video</p></li>
 </ol>
 </section>
 
@@ -192,15 +186,25 @@ Ivan Lizarazo
 <p>SAR’s antenna moves while emiting signals and receiving echos</p>
 </section>
 
-<section id="basic-radar-operation" class="title-slide slide level1">
-<h1>Basic Radar Operation</h1>
-<p>A pulse of duration <span class="math inline">\(\tau\)</span> travels at the speed of light <span class="math inline">\(c\)</span></p>
-<p>The two-way range distance between antena and target is the velocity times the time delay</p>
-<p>Thus, the range distance to the target is <span class="math inline">\(R = \frac {c\tau}{2}\)</span></p>
-</section>
+<section>
+<section id="radar-operation" class="title-slide slide level1">
+<h1>Radar Operation</h1>
 
+</section>
+<section id="radar-is-an-echo-measurement-system" class="slide level2">
+<h2>Radar is an echo measurement system</h2>
+<p>A pulse of duration <span class="math inline">\(\tau\)</span> travels at the speed of light <span class="math inline">\(c\)</span></p>
+<p>The two-way range distance between antena and target is the velocity times the time delay <span class="math inline">\(\Delta T\)</span></p>
+<p>Thus, the range distance to the target is <span class="math inline">\(R = \frac {c\Delta T}{2}\)</span></p>
+</section>
+<section id="measuring-the-backscatter" class="slide level2">
+<h2>Measuring the backscatter</h2>
+<p><img data-src="figures/measuring.png" class="img-fluid"> ## Radar collection angles</p>
+<p><img data-src="figures/collection.png" class="img-fluid"> ## Range and azimuth dimension</p>
+<p><img data-src="figures/ra_dimension.png" class="img-fluid"></p>
+</section></section>
 <section id="the-radar-equation" class="title-slide slide level1">
-<h1>The Radar Equation</h1>
+<h1><a href="https://www.radartutorial.eu/01.basics/The%20Radar%20Range%20Equation.en.html">The Radar Equation</a></h1>
 
 <img data-src="figures/radar_equation.png" class="img-fluid r-stretch"></section>
 
@@ -519,7 +523,7 @@ Ivan Lizarazo
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -593,14 +597,13 @@ Ivan Lizarazo
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-          const outerScaffold = trigger.parentElement.cloneNode(true);
-          const codeEl = outerScaffold.querySelector('code');
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
+            const codeEl = trigger.previousElementSibling.cloneNode(true);
+            for (const childEl of codeEl.children) {
+              if (isCodeAnnotation(childEl)) {
+                childEl.remove();
+              }
             }
-          }
-          return codeEl.innerText;
+            return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

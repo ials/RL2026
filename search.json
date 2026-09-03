@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "2026/weeks/week02/slides.html#radar-is-an-echo-measurement-system",
+    "href": "2026/weeks/week02/slides.html#radar-is-an-echo-measurement-system",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar is an echo measurement system",
+    "text": "Radar is an echo measurement system\nA pulse of duration \\(\\tau\\) travels at the speed of light \\(c\\)\nThe two-way range distance between antena and target is the velocity times the time delay \\(\\Delta T\\)\nThus, the range distance to the target is \\(R = \\frac {c\\Delta T}{2}\\)"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#measuring-the-backscatter",
+    "href": "2026/weeks/week02/slides.html#measuring-the-backscatter",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Measuring the backscatter",
+    "text": "Measuring the backscatter\n ## Radar collection angles\n ## Range and azimuth dimension"
+  },
+  {
     "objectID": "2026/weeks/week02/slides.html#the-wavelengths",
     "href": "2026/weeks/week02/slides.html#the-wavelengths",
     "title": "🗓️ Week 02 SAR Basics",
@@ -165,14 +179,14 @@
     "href": "2026/weeks/week02/lab.html#tutorial-dataset",
     "title": "🗓️ Week 02 - Practical exercise",
     "section": "👨‍🏫 Tutorial Dataset",
-    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nImportantSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportantSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
+    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
   },
   {
     "objectID": "2026/weeks/week02/lab.html#important",
     "href": "2026/weeks/week02/lab.html#important",
     "title": "🗓️ Week 02 - Practical exercise",
     "section": "✍️ Important",
-    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nImportantAfter ordering, you have to wait …"
+    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
   },
   {
     "objectID": "2026/weeks/week02/lab.html#recommended-reading",
@@ -261,7 +275,7 @@
     "href": "2026/syllabus.html#descripción-de-la-asignatura",
     "title": "2027948 - RADAR AND LIDAR REMOTE SENSING",
     "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
-    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nImportantOBJETIVOS:\n\n\n\n\n\n\nConocer los principios físicos asociados a SAR y LiDAR\nEntender las características principales de los datos SAR y LiDAR\nConocer los métodos de corrección radiométrica y geométrica de imágenes SAR\nObtener información temática a partir de imágenes SAR y datos LiDAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota SAR y LiDAR\nObtención de habilidades prácticas para seleccionar, procesar y analizar datos SAR y LiDAR\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de estas tecnologías\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico para el uso de datos SAR y LiDAR\nAdaptación y creación de scripts para procesamiento y análisis de datos SAR y LiDAR\nEvaluación de la calidad de productos de percepción remota SAR y LiDAR\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios conceptuales y prácticos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPARTE 1: GEE, Python, Sentinel-1 Toolbox (S1TBX)\nPARTE 2: R, Python & Jupyter & Google Colaboratory\n\n\n\nUSO DE INTELIGENCIA ARTIFICIAL\nLos estudiantes pueden usar herramientas de Inteligencia Artifical como un apoyo, y no como un sustituto, del pensamiento, el esfuerzo y el estilo personal.\n\n\nASISTENCIA OBLIGATORIA",
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nConocer los principios físicos asociados a SAR y LiDAR\nEntender las características principales de los datos SAR y LiDAR\nConocer los métodos de corrección radiométrica y geométrica de imágenes SAR\nObtener información temática a partir de imágenes SAR y datos LiDAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota SAR y LiDAR\nObtención de habilidades prácticas para seleccionar, procesar y analizar datos SAR y LiDAR\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de estas tecnologías\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico para el uso de datos SAR y LiDAR\nAdaptación y creación de scripts para procesamiento y análisis de datos SAR y LiDAR\nEvaluación de la calidad de productos de percepción remota SAR y LiDAR\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios conceptuales y prácticos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPARTE 1: GEE, Python, Sentinel-1 Toolbox (S1TBX)\nPARTE 2: R, Python & Jupyter & Google Colaboratory\n\n\n\nUSO DE INTELIGENCIA ARTIFICIAL\nLos estudiantes pueden usar herramientas de Inteligencia Artifical como un apoyo, y no como un sustituto, del pensamiento, el esfuerzo y el estilo personal.\n\n\nASISTENCIA OBLIGATORIA",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -271,7 +285,7 @@
     "href": "2026/syllabus.html#contenido-detallado",
     "title": "2027948 - RADAR AND LIDAR REMOTE SENSING",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nImportantPARTE 1 – RADAR DE APERTURA SINTETICA (SAR)\n\n\n\n\n\n\nTopic 1 - Principles of Radar Remote Sensing\n\n\nTopic 2 - Basic processing of SAR images - SNAP\n\n\nTopic 3 – Radiative properties of soils and vegetation\n\n\nTopic 4 – Basic processing of SAR images - GEE\n\n\nTopic 5 – Analysis Ready SAR Data\n\n\nTopic 6 - SAR interferometry\n\n\n\n\n\n\n\n\n\n\nImportantPARTE 2 – LIGHT DETECTION AND RANGING (LiDAR)\n\n\n\n\n\n\nTopic 7 – Introduction to LiDAR\nLecture: Chapter 1 of Wang et al. (2024)\nPractical: https://snowex-2022.hackweek.io/tutorials/lidar/1_introduction_to_lidar.html\n\n\nTopic 8 – LiDAR Remote Sensing Principles\nLecture: Chapter 2 of Wang et al. (2024)\nPractical: Functionality of the lasR package\n\n\nTopic 9 – LiDAR Data Acquisition\nLecture: Chapter 3 of Wang et al. (2024)\nPractical: https://www.opengeomatics.ca/LiDAR-acquisition-and-analysis.html\n\n\nTopic 10 - LiDAR Data Processing\nLecture: Chapter 4 of Wang et al. (2024)\n\n\nTopic 11 - Applications\nLecture: Chapter 5 of Wang et al. (2024)",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nPARTE 1 – RADAR DE APERTURA SINTETICA (SAR)\n\n\n\n\n\n\nTopic 1 - Principles of Radar Remote Sensing\n\n\nTopic 2 - Basic processing of SAR images - SNAP\n\n\nTopic 3 – Radiative properties of soils and vegetation\n\n\nTopic 4 – Basic processing of SAR images - GEE\n\n\nTopic 5 – Analysis Ready SAR Data\n\n\nTopic 6 - SAR interferometry\n\n\n\n\n\n\n\n\n\n\nPARTE 2 – LIGHT DETECTION AND RANGING (LiDAR)\n\n\n\n\n\n\nTopic 7 – Introduction to LiDAR\nLecture: Chapter 1 of Wang et al. (2024)\nPractical: https://snowex-2022.hackweek.io/tutorials/lidar/1_introduction_to_lidar.html\n\n\nTopic 8 – LiDAR Remote Sensing Principles\nLecture: Chapter 2 of Wang et al. (2024)\nPractical: Functionality of the lasR package\n\n\nTopic 9 – LiDAR Data Acquisition\nLecture: Chapter 3 of Wang et al. (2024)\nPractical: https://www.opengeomatics.ca/LiDAR-acquisition-and-analysis.html\n\n\nTopic 10 - LiDAR Data Processing\nLecture: Chapter 4 of Wang et al. (2024)\n\n\nTopic 11 - Applications\nLecture: Chapter 5 of Wang et al. (2024)",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -308,7 +322,7 @@
     "href": "2026/index.html",
     "title": "2027948 - RADAR AND LIDAR REMOTE SENSING",
     "section": "",
-    "text": "Important📢 Syllabus\n\n\n\n\n\n(28/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning - fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
+    "text": "📢 Syllabus\n\n\n\n\n\n(28/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning - fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
