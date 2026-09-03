@@ -27,11 +27,11 @@ format:
 
 Checking homework:
 
-1. Reading (platform's height)
+1. Reading 
 
-2. Practical (visualization)
+2. Practical 
 
-3. Video (SAR oblique view)
+3. Video 
 
 
 # What's RADAR?
@@ -44,15 +44,27 @@ SAR is not just a radar: it is an imaging radar system,
 
 SAR's antenna moves while emiting signals and receiving  echos
 
-# Basic Radar Operation
+# Radar Operation
+
+## Radar is an echo measurement system
 
 A pulse of duration $\tau$ travels at the speed of light $c$
 
-The two-way range distance between antena and target is the velocity times the time delay
+The two-way range distance between antena and target is the velocity times the time delay $\Delta T$
 
-Thus, the range distance to the target is $R = \frac {c\tau}{2}$
+Thus, the range distance to the target is $R = \frac {c\Delta T}{2}$
 
-# The Radar Equation
+## Measuring the backscatter
+
+![](figures/measuring.png)
+## Radar collection angles
+
+![](figures/collection.png)
+## Range and azimuth dimension
+
+![](figures/ra_dimension.png)
+
+# [The Radar Equation](https://www.radartutorial.eu/01.basics/The%20Radar%20Range%20Equation.en.html)
 
 ![](figures/radar_equation.png)
 
