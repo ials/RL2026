@@ -14,6 +14,90 @@
     "text": "Students\nPlease introduce yourselves\n:::"
   },
   {
+    "objectID": "2026/weeks/week01/slides.html#sar-fundamentals",
+    "href": "2026/weeks/week01/slides.html#sar-fundamentals",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "SAR Fundamentals",
+    "text": "SAR Fundamentals"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#optical-vs-sar-sensors",
+    "href": "2026/weeks/week01/slides.html#optical-vs-sar-sensors",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Optical vs SAR sensors",
+    "text": "Optical vs SAR sensors"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#microwaves-electromagnetic-spectrum",
+    "href": "2026/weeks/week01/slides.html#microwaves-electromagnetic-spectrum",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "microwaves electromagnetic spectrum",
+    "text": "microwaves electromagnetic spectrum"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#sar-band-wavelengths",
+    "href": "2026/weeks/week01/slides.html#sar-band-wavelengths",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "SAR band wavelengths",
+    "text": "SAR band wavelengths"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#sar-backscatter-is-influenced-by-physics",
+    "href": "2026/weeks/week01/slides.html#sar-backscatter-is-influenced-by-physics",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "SAR backscatter is influenced by physics",
+    "text": "SAR backscatter is influenced by physics"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#dielectic-constant-matters",
+    "href": "2026/weeks/week01/slides.html#dielectic-constant-matters",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Dielectic constant matters",
+    "text": "Dielectic constant matters"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#what-sar-measures",
+    "href": "2026/weeks/week01/slides.html#what-sar-measures",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "What SAR measures",
+    "text": "What SAR measures"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#sar-processing-levels",
+    "href": "2026/weeks/week01/slides.html#sar-processing-levels",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "SAR processing levels",
+    "text": "SAR processing levels"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#sar-polarization",
+    "href": "2026/weeks/week01/slides.html#sar-polarization",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "SAR polarization",
+    "text": "SAR polarization"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#sar-geometry",
+    "href": "2026/weeks/week01/slides.html#sar-geometry",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "SAR geometry",
+    "text": "SAR geometry"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#sar-orientation",
+    "href": "2026/weeks/week01/slides.html#sar-orientation",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "SAR orientation",
+    "text": "SAR orientation"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#sar-distorsions",
+    "href": "2026/weeks/week01/slides.html#sar-distorsions",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "SAR distorsions",
+    "text": "SAR distorsions"
+  },
+  {
     "objectID": "2026/weeks/week01/slides.html#reading-doing-and-writing",
     "href": "2026/weeks/week01/slides.html#reading-doing-and-writing",
     "title": "🗓️ Week 01 Introduction",
@@ -95,7 +179,7 @@
     "href": "2026/index.html",
     "title": "2027948 - RADAR AND LIDAR REMOTE SENSING",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(28/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
+    "text": "📢 Syllabus\n\n\n\n\n\n(28/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning - fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
