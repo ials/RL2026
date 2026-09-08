@@ -1,0 +1,37 @@
+---
+title: "🗓️ Week 03 - SAR response of soil and crops"
+---
+
+In this  week, we will review  how soil and crops influence SAR response.
+
+
+In addition, we will follow a tutorial to learn how to classify crop using SAR multitemporal data.
+
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://drive.google.com/file/d/15GIAV-TyYZ5NklJYCqq2Ad458RADKDHn/view) to understand the impact of soil and crops on SAR response.
+
+Click [here](https://dges.carleton.ca/courses/IntroSAR/SECTION%206%20-%20Carleton%20SAR%20Training%20-%20Importance%20of%20Target%20%20-%20August%202019%20FINAL.pdf) to know why target characteristics matter 
+
+## Practical exercise
+
+**The tutorial  material is [here](lab.qmd)**
+
+## 📚 Coursework
+
+- Study [SAR RGB Quick Guide](https://www.icimod.org/capacity-building/2021/SERVIR%20flood%20inundation%20mapping%20service/QuickGuide_SAR_RGB_ICIMOD_Aug2021.pdf)
+
+- Reproduce experiments for your *Informe No. 1*
+
+
+## 📚 Recommended Resources
+
+- [Sentinel-1 Monthly Mosaics](https://dataspace.copernicus.eu/news/2024-8-6-announcing-sentinel-1-monthly-mosaics-copernicus-data-space-ecosystem)
+
+- [ICEYE's SAR PRODUCTS](https://www.iceye.com/the-value-of-sar/talk-3)
+
+
+
+
+

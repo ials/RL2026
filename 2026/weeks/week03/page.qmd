@@ -1,29 +1,19 @@
 ---
-title: "🗓️ Week 03 - SAR response of soil and crops"
+title: "🗓️ Week 03 - SAR backscatter interpretation"
 ---
 
-In this  week, we will review  how soil and crops influence SAR response.
+In this  week, we will get to know what parameters influence radar backscatter.
 
-
-In addition, we will follow a tutorial to learn how to classify crop using SAR multitemporal data.
+In addition, we will discuss experiences in reproducing the tutorial [SAR-based landcover classification with Sentinel-1 GRD products](https://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf). 
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/15GIAV-TyYZ5NklJYCqq2Ad458RADKDHn/view) to understand the impact of soil and crops on SAR response.
+Click [here](https://drive.google.com/file/d/1hcKKyXK0w_zaFly415hYXnWBvU5kZ-v6/view?usp=sharing)to access the presentation.
 
-Click [here](https://dges.carleton.ca/courses/IntroSAR/SECTION%206%20-%20Carleton%20SAR%20Training%20-%20Importance%20of%20Target%20%20-%20August%202019%20FINAL.pdf) to know why target characteristics matter 
+## 📚 Practical exercise
 
-## Practical exercise
-
-**The tutorial  material is [here](lab.qmd)**
-
-## 📚 Coursework
-
-- Study [SAR RGB Quick Guide](https://www.icimod.org/capacity-building/2021/SERVIR%20flood%20inundation%20mapping%20service/QuickGuide_SAR_RGB_ICIMOD_Aug2021.pdf)
-
-- Reproduce experiments for your *Informe No. 1*
-
+- Complete the landcover classification tutorial with your own data and tool of choice. Bring your results to the next class.
 
 ## 📚 Recommended Resources
 
