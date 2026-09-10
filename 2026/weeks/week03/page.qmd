@@ -15,6 +15,8 @@ Click [here](https://drive.google.com/file/d/1hcKKyXK0w_zaFly415hYXnWBvU5kZ-v6/v
 
 - Complete the landcover classification tutorial with your own data and tool of choice. Bring your results to the next class.
 
+- In case you stick to ESA SNAP, consider building a [graph of the workflow](https://drive.google.com/file/d/1NP9ebJmNpIySqkxyWupLurssHfHouGUB/view?usp=sharing).
+
 ## 📚 Recommended Resources
 
 - [Sentinel-1 Monthly Mosaics](https://dataspace.copernicus.eu/news/2024-8-6-announcing-sentinel-1-monthly-mosaics-copernicus-data-space-ecosystem)
