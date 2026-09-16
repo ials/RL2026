@@ -2,7 +2,7 @@
 title: "🗓️ Week 04 - SAR physics revisited"
 ---
 
-In this  week, we will refresh basic concepts on SAR physics, define a workflow for radiometric terrain correction and geocoding, and explore Sentinel-1 data in GEE.
+In this  week, we will refresh basic concepts on SAR physics, define a workflow for *radiometric terrain correction* and geocoding, and explore Sentinel-1 data in GEE.
 
 
 ## 👨‍🏫 Lecture Slides 

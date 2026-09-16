@@ -1,8 +1,8 @@
 ---
 subtitle: "RADAR AND LIDAR REMOTE SENSING"
 title: "<font style='font-size:1em;'>🗓️ Week 04<br/> SAR Physics</font>"
-author: Ivan Lizarazo(#)
-institute: '[Universidad Nacional de Colombia](#)'
+author: Ivan Lizarazo
+institute: 'Universidad Nacional de Colombia'
 date: 17 September 2026
 date-meta: 17 September 2026
 date-format: "DD MMM YYYY"

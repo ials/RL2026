@@ -9,7 +9,7 @@ format: html
 
 (11/09/2026)
 
-🗓️ Bring a sample of one SAR backscatter interpretation (as stated in class)  
+🗓️ Bring your  example of SAR backscatter interpretation (as stated in class)  
 
 :::
 
