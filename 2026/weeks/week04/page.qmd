@@ -9,9 +9,9 @@ In this  week, we will refresh basic concepts on SAR physics, define a workflow 
 
 Click [here](slides.qmd) to view the slides.
 
-## First report 
+## SAR backscatter interpretation
 
-**Students decide the topic & study area for their first report**
+Students report their progress (one-page example of SAR image interpretation)
 
 ## Practical exercise
 
@@ -27,5 +27,5 @@ Vollrath et al. (2022)
 
 ## 📚 Recommended Video
 
-- [Disaster Response with AI and SAR](https://www.capellaspace.com/webinar/revolutionizing-disaster-response-with-ai-and-24-7-all-weather-sar-imagery) (INce & Vancassel, 2023)
+- [Disaster Response with AI and SAR](https://www.capellaspace.com/webinar/revolutionizing-disaster-response-with-ai-and-24-7-all-weather-sar-imagery) (Ince & Vancassel, 2023)
 

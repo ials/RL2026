@@ -3,8 +3,8 @@ subtitle: "RADAR AND LIDAR REMOTE SENSING"
 title: "<font style='font-size:1em;'>🗓️ Week 04<br/> SAR Physics</font>"
 author: Ivan Lizarazo(#)
 institute: '[Universidad Nacional de Colombia](#)'
-date: 18 September 2025
-date-meta: 18 SEptember 2025
+date: 17 September 2026
+date-meta: 17 September 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -133,7 +133,7 @@ Microwave remote sensing is a difficult subject. However, it is fascinating (Woo
 <img src="figures/three_images.gif" width=75% height=75%>
 
 
-# To do before next weekARS 
+# To do before next week
 
 ## Read this document
 

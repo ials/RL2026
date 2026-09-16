@@ -4,6 +4,15 @@ subtitle: "Academic Year: 2026"
 format: html
 ---
 
+::: {.callout-important collapse=false}
+## 📢 SAR Image Interpretation Assignment
+
+(11/09/2026)
+
+🗓️ Bring a sample of one SAR backscatter interpretation (as stated in class)  
+
+:::
+
 ::: {.callout-important collapse=true}
 ## 📢 Syllabus
 
