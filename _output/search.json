@@ -1023,7 +1023,18 @@
     "href": "2026/weeks/week04/page.html#lecture-slides",
     "title": "🗓️ Week 04 - SAR physics revisited",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.\n\n\n\n\n\n\nPractical Assignment\n\n\n\n\n\n🗺️ Sentinel-1 search, processing, and visualization in GEE\nObjective: Select a learning path based on your current skill level, replicate the tutorial steps in your AOI, and prepare a concise presentation about your findings.\n📌 Step 1: Choose Your Learning Path\nSelect one of the following options to replicate:\n🟢 Basic Level Tutorial — Focuses on Sentinel-1 search and visualization.\n🔵 Intermediate Level Tutorial — Focuses on Radar Terrain Correction (RTC) processing.\n⚙️ Step 2: Replicate the tutorial\n\nApply the steps from your chosen tutorial to your specific AOI.\nEnsure all data layers process correctly and your final outputs are mapped properly.\n\n📢 Step 3: Prepare Your Presentation\n\nCreate a 5-minute presentation summarizing your replication workflow.\n\nYour presentation must include:\n\nAOI Overview: A brief introduction to your chosen study area.\nMethodology: A snapshot of how you applied the tutorial steps.\nResults & Challenges: Visual outputs (maps/graphs) and any troubleshooting steps you took.📅\n\nDue Date: Thursday, 24th September\n⏱️ Time Limit: Strictly 5 minutes per person.",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week04/page.html#practical-assignment",
+    "href": "2026/weeks/week04/page.html#practical-assignment",
+    "title": "🗓️ Week 04 - SAR physics revisited",
+    "section": "Practical Assignment",
+    "text": "Practical Assignment\n\n\n\n\n\n\nImportant\n\n\n\n\n\n🗺️ Sentinel-1 search, processing, and visualization in GEE\nObjective: Select a learning path based on your current skill level, replicate the tutorial steps in your AOI, and prepare a concise presentation about your findings.\n📌 Step 1: Choose Your Learning Path\nSelect one of the following options to replicate:\n🟢 Basic Level Tutorial — Focuses on Sentinel-1 search and visualization.\n🔵 Intermediate Level Tutorial — Focuses on Radar Terrain Correction (RTC) processing.\n⚙️ Step 2: Replicate the tutorial\n\nApply the steps from your chosen tutorial to your specific AOI.\nEnsure all data layers process correctly and your final outputs are mapped properly.\n\n📢 Step 3: Prepare Your Presentation\n\nCreate a 5-minute presentation summarizing your replication workflow.\n\nYour presentation must include:\n\nAOI Overview: A brief introduction to your chosen study area.\nMethodology: A snapshot of how you applied the tutorial steps.\nResults & Challenges: Visual outputs (maps/graphs) and any troubleshooting steps you took.📅\n\nDue Date: Thursday, 24th September\n⏱️ Time Limit: Strictly 5 minutes per person.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 04"

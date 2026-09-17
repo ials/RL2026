@@ -23,7 +23,7 @@ Objective: Select a learning path based on your current skill level, replicate t
 
 Select one of the following options to replicate:
 
-🟢 [Basic Level Tutorial]((lab.qmd)) 
+🟢 [Basic Level Tutorial](lab.qmd) 
 — Focuses on Sentinel-1 search and visualization.
 
 🔵 [Intermediate Level Tutorial](lab_RTC.qmd) 
