@@ -11,7 +11,7 @@ Make sure you replicate these tutorials with your own data & study area:
 
 #### [Working with SAR data in GEE](https://www.gears-lab.com/intro_rs_lab8/)
 
-#### [OPERA RTC SAR Backscatter from Sentinel-1](https://developers.google.com/earth-engine/datasets/catalog/OPERA_RTC_L2_V1_S1?hl=es-419
+#### [OPERA RTC SAR Backscatter from Sentinel-1](https://developers.google.com/earth-engine/datasets/catalog/OPERA_RTC_L2_V1_S1?hl=es-419)
 
 :::{.callout-note collapse=true}
 ### Additional resources
