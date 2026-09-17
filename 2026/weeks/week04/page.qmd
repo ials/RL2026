@@ -12,8 +12,8 @@ Students report their progress (one-page example of SAR image interpretation)
 
 Click [here](slides.qmd) to view the slides.
 
-::: {.callout-important collapse=true}
 ## Practical Assignment
+::: {.callout-important collapse=true}
 
 🗺️  Sentinel-1 search, processing, and visualization in  GEE
 
