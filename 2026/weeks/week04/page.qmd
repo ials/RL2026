@@ -52,9 +52,7 @@ Due Date: Thursday, 24th September
 
 ## 📚 Recommended Reading
 
-[Angular-Based Radiometric Slope Correction for Sentinel-1 on GEE](https://www.mdpi.com/2072-4292/12/11/1867) 
-
-Vollrath et al. (2022) 
+[Sentinel-1 GRD vs RTC Comparison](https://offnadir-delta.com/blog/sentinel-1-grd-vs-rtc-comparison)
 
 ## 📚 Recommended Video
 
