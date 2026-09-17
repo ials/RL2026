@@ -4,26 +4,57 @@ title: "🗓️ Week 04 - SAR physics revisited"
 
 In this  week, we will refresh basic concepts on SAR physics, define a workflow for *radiometric terrain correction* and geocoding, and explore Sentinel-1 data in GEE.
 
+## SAR backscatter interpretation
+
+Students report their progress (one-page example of SAR image interpretation)
 
 ## 👨‍🏫 Lecture Slides 
 
 Click [here](slides.qmd) to view the slides.
 
-## SAR backscatter interpretation
+::: {.callout-important collapse=true}
+## Practical Assignment
 
-Students report their progress (one-page example of SAR image interpretation)
+🗺️  Sentinel-1 search, processing, and visualization in  GEE
 
-## Practical exercise
+Objective: Select a learning path based on your current skill level, replicate the tutorial steps in your AOI, and prepare a concise presentation about your findings.
 
-The tutorial  material is [here](lab.qmd)
+📌 Step 1: Choose Your Learning Path
 
+Select one of the following options to replicate:
+
+🟢 [Basic Level Tutorial]((lab.qmd)) 
+— Focuses on Sentinel-1 search and visualization.
+
+🔵 [Intermediate Level Tutorial](lab_RTC.qmd) 
+— Focuses on Radar Terrain Correction (RTC) processing.
+
+⚙️ Step 2: Replicate the tutorial
+
+- Apply the steps from your chosen tutorial to your specific AOI.
+
+- Ensure all data layers process correctly and your final outputs are mapped properly.
+
+📢 Step 3: Prepare Your Presentation
+
+- Create a 5-minute presentation summarizing your replication workflow. 
+
+Your presentation must include:
+
+- AOI Overview: A brief introduction to your chosen study area.
+- Methodology: A snapshot of how you applied the tutorial steps.
+- Results & Challenges: Visual outputs (maps/graphs) and any troubleshooting steps you took.📅 
+
+Due Date: Thursday, 24th September
+
+⏱️ Time Limit: Strictly 5 minutes per person.
+:::
 
 ## 📚 Recommended Reading
 
 [Angular-Based Radiometric Slope Correction for Sentinel-1 on GEE](https://www.mdpi.com/2072-4292/12/11/1867) 
 
 Vollrath et al. (2022) 
-
 
 ## 📚 Recommended Video
 

@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 04 - Practical exercise"
+title: "🗓️ Week 04 - Basic Level Practical"
 ---
 
 In this  week, we will explore SAR data in GEE: 
@@ -9,12 +9,13 @@ In this  week, we will explore SAR data in GEE:
 
 Make sure you replicate these tutorials with your own data & study area:
 
-#### [GEE - Synthetic Aperture Radar (SAR) Basics](https://developers.google.com/earth-engine/tutorials/community/sar-basics)
-#### [GEE - Sentinel-1 Algorithms](https://developers.google.com/earth-engine/guides/sentinel1)
+#### [Working with SAR data in GEE](https://www.gears-lab.com/intro_rs_lab8/)
+
+#### [OPERA RTC SAR Backscatter from Sentinel-1](https://developers.google.com/earth-engine/datasets/catalog/OPERA_RTC_L2_V1_S1?hl=es-419
 
 :::{.callout-note collapse=true}
 ### Additional resources
-#### [Working with SAR data in GEE](https://www.gears-lab.com/intro_rs_lab8/)
+
 :::
 
 🎥 
