@@ -3,8 +3,8 @@ subtitle: "RADAR AND LIDAR REMOTE SENSING"
 title: "<font style='font-size:1em;'>🗓️ Week 05<br/> SAR workflows</font>"
 author: Ivan Lizarazo
 institute: Universidad Nacional de Colombia
-date: 25 September 2025
-date-meta: 25 September 2025
+date: 24 September 2026
+date-meta: 24 September 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1

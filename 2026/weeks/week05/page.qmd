@@ -7,16 +7,15 @@ In this  week, we will  learn how to prepare  Sentinel-1 SAR Analysis Ready Data
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](slides.qmd) to view the slides.
+Click [here](slides.qmd) to know about *SAR workflows*.
 
-## Informe No. 1
+## Informe No. 1 - SAR Interpretation
 
-**Upload your report on time**
+[SAR Image Interpretation Keys](https://drive.google.com/file/d/1XJFzJAsFzmWJjFNiYV90SfcHwIz7WSBQ/view?usp=sharing) 
 
 ## Practical exercise
 
-The tutorial  material is [here](lab.qmd)
-
+Complete the [Mullisa workflow](lab.qmd) for your study area if you have not already done so.
 
 ## 📚 Recommended Reading
 

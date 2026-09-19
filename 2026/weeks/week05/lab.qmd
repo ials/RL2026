@@ -26,7 +26,7 @@ The implemented framework to get Sentinel-1 ARD includes additional border noise
 
 The framework is implemented in both GEE Javascript and the Python application programming interface (API).
 
-To use the framework in GEE code editor, go to [this repositorz](https://code.earthengine.google.com/?accept_repo=users/adugnagirma/gee_s1_ard) and copy the contents of the *s1_ard.js* script  to your own repository. The path to the preprocessing functions is a public so you don't need to copy them.
+To use the framework in GEE code editor, go to [this repository](https://code.earthengine.google.com/?accept_repo=users/adugnagirma/gee_s1_ard) and copy the contents of the *s1_ard.js* script  to your own repository. The path to the preprocessing functions is a public so you don't need to copy them.
 
 When using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.
  
