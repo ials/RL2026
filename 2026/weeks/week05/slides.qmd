@@ -113,7 +113,12 @@ Written by De Luca, Silva and Modica (2021).
 
 ## Additional info
 
-##### The paper is available [here](https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1907896)
+##### The SAR workflow's paper is available [here](https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1907896)
+
+## Portable and scalable workflows
+
+[Portable and scalable workflows for earth observation data analysis with Nextflow
+(Lehmann et al., 2026)](https://depositonce.tu-berlin.de/bitstreams/8407efec-7759-40d9-97a9-ff86f630b6a3/download)
 
 # To do before next class 
 
