@@ -17,10 +17,9 @@ Click [here](slides.qmd) to know about *SAR workflows*.
 
 Complete the [Mullisa workflow](lab.qmd) for your study area if you have not already done so.
 
-## 📚 Recommended Reading
+## 📚  Reading Assignment
 
-[Global seasonal Sentinel-1 interferometric coherence and backscatter data set](https://www.nature.com/articles/s41597-022-01189-6)
-
+[A Review on PolSAR Decompositions](https://drive.google.com/file/d/1Q0Yz5TOyUgqfwHLFUiQMY6L-wJIpACR5/view?usp=sharing())
 
 ## 📚 Recommended Video
 
