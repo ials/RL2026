@@ -9,9 +9,13 @@ In this  week, we will  learn how to prepare  Sentinel-1 SAR Analysis Ready Data
 
 Click [here](slides.qmd) to know about *SAR workflows*.
 
-## Informe No. 1 - SAR Interpretation
+## Informe No. 1 - SAR Interpretation Guide
 
-[SAR Image Interpretation Keys](https://drive.google.com/file/d/1XJFzJAsFzmWJjFNiYV90SfcHwIz7WSBQ/view?usp=sharing) 
+These resources may be helpful:
+
+- [SAR Image Interpretation Keys](https://drive.google.com/file/d/1XJFzJAsFzmWJjFNiYV90SfcHwIz7WSBQ/view?usp=sharing) 
+
+- [The Rapid Image Viewer](https://ks-biosurvey.projects.earthengine.app/view/rapid-image-viewer)
 
 ## Practical exercise
 
