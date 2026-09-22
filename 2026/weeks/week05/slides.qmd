@@ -135,5 +135,5 @@ Tom Ager (2023)
 
 ## Go back home
 
-[The way home](page.gmd)
+[The way home](page.qmd)
 
