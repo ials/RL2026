@@ -115,18 +115,17 @@ Written by De Luca, Silva and Modica (2021).
 
 ##### The SAR workflow's paper is available [here](https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1907896)
 
-## Portable and scalable workflows
+## Reproducible workflows
 
-[Portable and scalable workflows for earth observation data analysis with Nextflow
-(Lehmann et al., 2026)](https://depositonce.tu-berlin.de/bitstreams/8407efec-7759-40d9-97a9-ff86f630b6a3/download)
+- [Portable and scalable workflows for earth observation data analysis with Nextflow](https://depositonce.tu-berlin.de/bitstreams/8407efec-7759-40d9-97a9-ff86f630b6a3/download)
+
+- [Rangeland classification](https://seqera.io/pipelines/rangeland--nf-core/)
 
 # To do before next class 
 
 ## Read this document
 
-[Global seasonal Sentinel-1 interferometric coherence and backscatter data set](https://www.nature.com/articles/s41597-022-01189-6) 
-
-Kellndorfer et al. (2022) 
+[A Review on PolSAR Decompositions](https://drive.google.com/file/d/1Q0Yz5TOyUgqfwHLFUiQMY6L-wJIpACR5/view?usp=sharing())
 
 ## Watch this video
 
@@ -134,7 +133,7 @@ Kellndorfer et al. (2022)
 
 Tom Ager (2023)
 
-## Next week practical exercise
+## Go back home
 
-[Detecting changes in Sentinel-1 imagery](https://developers.google.com/earth-engine/tutorials/community/detecting-changes-in-sentinel-1-imagery-pt-1) (Mort Canty)
+[The way home](page.gmd)
 

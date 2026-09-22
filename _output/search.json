@@ -130,7 +130,14 @@
     "href": "2026/weeks/week05/slides.html#additional-info",
     "title": "🗓️ Week 05 SAR workflows",
     "section": "Additional info",
-    "text": "Additional info\nThe paper is available here"
+    "text": "Additional info\nThe SAR workflow’s paper is available here"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#portable-and-scalable-workflows",
+    "href": "2026/weeks/week05/slides.html#portable-and-scalable-workflows",
+    "title": "🗓️ Week 05 SAR workflows",
+    "section": "Portable and scalable workflows",
+    "text": "Portable and scalable workflows\nPortable and scalable workflows for earth observation data analysis with Nextflow (Lehmann et al., 2026)"
   },
   {
     "objectID": "2026/weeks/week05/slides.html#read-this-document",
