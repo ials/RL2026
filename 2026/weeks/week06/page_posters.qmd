@@ -1,0 +1,26 @@
+---
+title: "🗓️ Week 6 - Scientific posters"
+---
+
+In this  week, we will  review the first draft of your SAR poster. In addition, we will learn several tips to create effective posters.
+
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://ethz.ch/content/dam/ethz/special-interest/usys/ibp/soil-terrestrial-env-physics-dam/education/sientific_comm/2015/3-creating_scientific_poster_ethz_2015.pdf) to view the slides.
+
+
+## First draft of your poster
+
+**Students upload their first draft on time** at [this link](https://drive.google.com/drive/folders/1BIVDWJ3erFXB39ENFKYcsNybggJPCPlQ?usp=drive_link).
+
+## Practical exercise
+
+Students keep working on their reproducibility experiment for their first report.
+
+## 📚 Recommended Reading
+
+[1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a)
+
+
+

@@ -1,26 +1,22 @@
 ---
-title: "🗓️ Week 6 - Scientific posters"
+title: "🗓️ Week 6 - SAR Polarimetry"
 ---
 
-In this  week, we will  review the first draft of your SAR poster. In addition, we will learn several tips to create effective posters.
+In this  week, we will get to know fundamentals of SAR Polarimetry, going from polarization and backscaterring mechanisms to decompositions and distorsions.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://ethz.ch/content/dam/ethz/special-interest/usys/ibp/soil-terrestrial-env-physics-dam/education/sientific_comm/2015/3-creating_scientific_poster_ethz_2015.pdf) to view the slides.
+[SAR Polarimetry Overview](https://drive.google.com/file/d/1Az2wHHrn8JnwcNMHnUzTjP9jTAhkPiO2/view?usp=sharing).
 
 
-## First draft of your poster
+## Processing Polarimetric SAR data
 
-**Students upload their first draft on time** at [this link](https://drive.google.com/drive/folders/1BIVDWJ3erFXB39ENFKYcsNybggJPCPlQ?usp=drive_link).
+[Polsartools](https://drive.google.com/file/d/1cb63CmWL2AY_76Zmhor7ZncDFzZlPtXI/view?usp=sharing)
 
-## Practical exercise
+## *Examen No. 1* is on October 8. 
 
-Students keep working on their reproducibility experiment for their first report.
-
-## 📚 Recommended Reading
-
-[1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a)
+## *Informe No. 1" is due on October 15.
 
 
 
