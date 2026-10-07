@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>🗓️ Week 6 - SAR Polarimetry – RADAR AND LIDAR</title>
+<title>🗓️ Week 07 - SAR Polarimetry in practice – RADAR AND LIDAR</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../2026/weeks/week07/page.html" rel="next">
-<link href="../../../2026/weeks/week05/page.html" rel="prev">
 <link href="../../../figures/icons/SAR.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -74,10 +72,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="🗓️ Week 6 - SAR Polarimetry – RADAR AND LIDAR">
+<meta property="og:title" content="🗓️ Week 07 - SAR Polarimetry in practice – RADAR AND LIDAR">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="RADAR AND LIDAR">
-<meta name="twitter:title" content="🗓️ Week 6 - SAR Polarimetry – RADAR AND LIDAR">
+<meta name="twitter:title" content="🗓️ Week 07 - SAR Polarimetry in practice – RADAR AND LIDAR">
 <meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -110,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2026/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2026/weeks/week06/page.html">Week 06</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">🗓️ Week 07 - SAR Polarimetry in practice</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -230,16 +228,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2026/weeks/week06/page.html" class="sidebar-item-text sidebar-link active">
+            <a href="../../../2026/weeks/week06/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week 06</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2026/weeks/week06/page.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../2026/weeks/week06/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -274,20 +272,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
-  <li><a href="#processing-polarimetric-sar-data" id="toc-processing-polarimetric-sar-data" class="nav-link" data-scroll-target="#processing-polarimetric-sar-data">Processing Polarimetric SAR data</a></li>
-  <li><a href="#examen-no.-1-is-on-october-8." id="toc-examen-no.-1-is-on-october-8." class="nav-link" data-scroll-target="#examen-no.-1-is-on-october-8."><em>Examen No.&nbsp;1</em> is on October 8.</a></li>
-  <li><a href="#informe-no.-1-is-due-on-october-15." id="toc-informe-no.-1-is-due-on-october-15." class="nav-link" data-scroll-target="#informe-no.-1-is-due-on-october-15."><em>Informe No.&nbsp;1</em> is due on October 15.</a></li>
-  <li><a href="#sar-polarimetry-reading" id="toc-sar-polarimetry-reading" class="nav-link" data-scroll-target="#sar-polarimetry-reading">SAR Polarimetry Reading</a></li>
+  <li><a href="#practical-exercise" id="toc-practical-exercise" class="nav-link active" data-scroll-target="#practical-exercise">Practical exercise</a></li>
+  <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2026/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2026/weeks/week06/page.html">Week 06</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 6 - SAR Polarimetry</h1>
+<h1 class="title">🗓️ Week 07 - SAR Polarimetry in practice</h1>
 </div>
 
 
@@ -310,26 +305,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this week, we will get to know fundamentals of SAR Polarimetry, going from polarization and backscaterring mechanisms to decompositions and distorsions.</p>
-<section id="lecture-slides" class="level2">
-<h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
-<p><a href="https://drive.google.com/file/d/1Az2wHHrn8JnwcNMHnUzTjP9jTAhkPiO2/view?usp=sharing">SAR Polarimetry Overview</a>.</p>
+<p>In this week, we will apply the PolSAR theory to real images.</p>
+<section id="practical-exercise" class="level2">
+<h2 class="anchored" data-anchor-id="practical-exercise">Practical exercise</h2>
+<ul>
+<li><p>Replicate this notebook: <a href="https://drive.google.com/file/d/1D_hmB9NWL3Z_BehtWpbGgwBr1_zsQZCC/view?usp=sharing">PolSAR 1: The scattering matrix in images</a></p></li>
+<li><p>The data is <a href="https://drive.google.com/drive/folders/1D3Y98aTrnEMPdl7Ce8N-qlPSYKIyPJyJ?usp=sharing">here</a></p></li>
+</ul>
 </section>
-<section id="processing-polarimetric-sar-data" class="level2">
-<h2 class="anchored" data-anchor-id="processing-polarimetric-sar-data">Processing Polarimetric SAR data</h2>
-<p><a href="https://drive.google.com/file/d/1cb63CmWL2AY_76Zmhor7ZncDFzZlPtXI/view?usp=sharing">Polsartools</a></p>
-</section>
-<section id="examen-no.-1-is-on-october-8." class="level2">
-<h2 class="anchored" data-anchor-id="examen-no.-1-is-on-october-8."><em>Examen No.&nbsp;1</em> is on October 8.</h2>
-<p>…</p>
-</section>
-<section id="informe-no.-1-is-due-on-october-15." class="level2">
-<h2 class="anchored" data-anchor-id="informe-no.-1-is-due-on-october-15."><em>Informe No.&nbsp;1</em> is due on October 15.</h2>
-<p>…</p>
-</section>
-<section id="sar-polarimetry-reading" class="level2">
-<h2 class="anchored" data-anchor-id="sar-polarimetry-reading">SAR Polarimetry Reading</h2>
-<p><a href="https://drive.google.com/file/d/1qzcXkl1iYYX2OWRYob8kA3w0Pk4bISbw/view?usp=sharing">SAR Polarimetry Overview</a></p>
+<section id="recommended-reading" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
+<p><a href="https://eo4society.esa.int/wp-content/uploads/2021/01/2015_3rdPolarimetry_PolSARAp_Theory_CLopez-Martinez.pdf">Basic Principles of SAR Polarimetry</a></p>
 
 
 </section>
@@ -741,18 +727,6 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../../../2026/weeks/week05/page.html" class="pagination-link" aria-label="Week 05">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 05</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../../../2026/weeks/week07/page.html" class="pagination-link" aria-label="Week 07">
-        <span class="nav-page-text">Week 07</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
