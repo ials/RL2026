@@ -5,11 +5,10 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
-## 📢 SAR Image Interpretation Assignment
+## 📢  Informe No. 1 is due on 15 October
 
-(11/09/2026)
 
-🗓️ Bring your  example of SAR backscatter interpretation (as stated in class)  
+🗓️  Upload your Informe No. 1 [here](https://drive.google.com/drive/folders/1y_zimPWCZ4eFa_BR8HE6HuAJLS-9z43_?usp=sharing)
 
 :::
 

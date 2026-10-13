@@ -1,0 +1,23 @@
+---
+title: "🗓️ Week 08 - Surface soil moisture"
+---
+
+In this  week, we will know different techniques for estimation of soil moisture from SAR.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[SAR Soil Moisture](https://eo4society.esa.int/wp-content/uploads/2023/07/2023_TAT10_SARSoilMoisture_WWagner_Theory.pdf).
+
+##  Practical exercise
+
+Install and test the PYthon Sentinel-1 soil-Moisture Mapping -[PYSMM](https://gitlab.inf.unibz.it/Felix.Greifeneder/pysmm)- library. See the documentation [here](https://pysmm.readthedocs.io/en/latest/#).
+
+Alternatively check the algorithm  used in [100-m-resolution surface soil moisture data during the thawing season on the Qinghai‒Tibet Plateau](https://www.nature.com/articles/s41597-025-04831-1)
+
+## 📚 Recommended Reading
+
+[A Machine Learning-Based Approach for Surface Soil Moisture Estimations with Google Earth Engine](https://www.mdpi.com/2072-4292/13/11/2099)
+
+
+

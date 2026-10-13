@@ -1,23 +1,18 @@
 ---
-title: "🗓️ Week 08 - Surface soil moisture"
+title: "🗓️ Week 08 - SAR Polarimetry revisited"
 ---
 
-In this  week, we will know different techniques for estimation of soil moisture from SAR.
+In this  week, we will learn how to obtain the eigenvalues of the coherence matrix and the entropy / anisotropy / alpha decomposition.
 
+## Practical exercise
 
-## 👨‍🏫 Lecture Slides 
+- Replicate this notebook: [PolSAR 2: The entropy / alpha decomposition](https://drive.google.com/file/d/1N-fcM2nKxTCBz6Si72V_MGLQ5upspzQL/view?usp=sharing)
 
-[SAR Soil Moisture](https://eo4society.esa.int/wp-content/uploads/2023/07/2023_TAT10_SARSoilMoisture_WWagner_Theory.pdf).
-
-##  Practical exercise
-
-Install and test the PYthon Sentinel-1 soil-Moisture Mapping -[PYSMM](https://gitlab.inf.unibz.it/Felix.Greifeneder/pysmm)- library. See the documentation [here](https://pysmm.readthedocs.io/en/latest/#).
-
-Alternatively check the algorithm  used in [100-m-resolution surface soil moisture data during the thawing season on the Qinghai‒Tibet Plateau](https://www.nature.com/articles/s41597-025-04831-1)
+- The dataset is the same as last week. You can find it [here](https://drive.google.com/drive/folders/1D3Y98aTrnEMPdl7Ce8N-qlPSYKIyPJyJ?usp=sharing)
 
 ## 📚 Recommended Reading
 
-[A Machine Learning-Based Approach for Surface Soil Moisture Estimations with Google Earth Engine](https://www.mdpi.com/2072-4292/13/11/2099)
+[Basic Principles of SAR Polarimetry](https://eo4society.esa.int/wp-content/uploads/2021/01/2015_3rdPolarimetry_PolSARAp_Theory_CLopez-Martinez.pdf)
 
 
 
