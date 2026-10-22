@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "2026/weeks/week08/page_soil_moisture.html",
+    "href": "2026/weeks/week08/page_soil_moisture.html",
+    "title": "🗓️ Week 08 - Surface soil moisture",
+    "section": "",
+    "text": "In this week, we will know different techniques for estimation of soil moisture from SAR."
+  },
+  {
+    "objectID": "2026/weeks/week08/page_soil_moisture.html#lecture-slides",
+    "href": "2026/weeks/week08/page_soil_moisture.html#lecture-slides",
+    "title": "🗓️ Week 08 - Surface soil moisture",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nSAR Soil Moisture."
+  },
+  {
+    "objectID": "2026/weeks/week08/page_soil_moisture.html#practical-exercise",
+    "href": "2026/weeks/week08/page_soil_moisture.html#practical-exercise",
+    "title": "🗓️ Week 08 - Surface soil moisture",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nInstall and test the PYthon Sentinel-1 soil-Moisture Mapping -PYSMM- library. See the documentation here.\nAlternatively check the algorithm used in 100-m-resolution surface soil moisture data during the thawing season on the Qinghai‒Tibet Plateau"
+  },
+  {
+    "objectID": "2026/weeks/week08/page_soil_moisture.html#recommended-reading",
+    "href": "2026/weeks/week08/page_soil_moisture.html#recommended-reading",
+    "title": "🗓️ Week 08 - Surface soil moisture",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\nA Machine Learning-Based Approach for Surface Soil Moisture Estimations with Google Earth Engine"
+  },
+  {
     "objectID": "2026/weeks/week07/page_insar.html",
     "href": "2026/weeks/week07/page_insar.html",
     "title": "🗓️ Week 07 - SAR Polarimetry in practice",
@@ -797,7 +825,7 @@
     "href": "2026/index.html",
     "title": "2027948 - RADAR AND LIDAR REMOTE SENSING",
     "section": "",
-    "text": "📢 SAR Image Interpretation Assignment\n\n\n\n\n\n(11/09/2026)\n🗓️ Bring your example of SAR backscatter interpretation (as stated in class)\n\n\n\n\n\n\n\n\n\n📢 Syllabus\n\n\n\n\n\n(28/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning - fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
+    "text": "📢 Informe No. 1 is due on 15 October\n\n\n\n\n\n🗓️ Upload your Informe No. 1 here\n\n\n\n\n\n\n\n\n\n📢 Syllabus\n\n\n\n\n\n(28/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning - fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
@@ -1492,5 +1520,38 @@
     "title": "🗓️ Week 07 - SAR Interferometry",
     "section": "📚 Recommended Reading",
     "text": "📚 Recommended Reading\nDifferential and Persistent Scatterer SAR Interferometry"
+  },
+  {
+    "objectID": "2026/weeks/week08/page.html",
+    "href": "2026/weeks/week08/page.html",
+    "title": "🗓️ Week 08 - SAR Polarimetry revisited",
+    "section": "",
+    "text": "In this week, we will learn how to obtain the eigenvalues of the coherence matrix and the entropy / anisotropy / alpha decomposition.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week08/page.html#practical-exercise",
+    "href": "2026/weeks/week08/page.html#practical-exercise",
+    "title": "🗓️ Week 08 - SAR Polarimetry revisited",
+    "section": "Practical exercise",
+    "text": "Practical exercise\n\nReplicate this notebook: PolSAR 2: The entropy / alpha decomposition\nThe dataset is the same as last week. You can find it here",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week08/page.html#recommended-reading",
+    "href": "2026/weeks/week08/page.html#recommended-reading",
+    "title": "🗓️ Week 08 - SAR Polarimetry revisited",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\nBasic Principles of SAR Polarimetry",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 08"
+    ]
   }
 ]

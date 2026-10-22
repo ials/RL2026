@@ -1,0 +1,30 @@
+---
+title: "🗓️ Week 9  -Introduction to LiDAR"
+---
+
+Light detection and ranging (LiDAR) is a combination of laser technology and photoelectric detection technology. It uses a laser as a light source to transmit high-frequency laser pulses to the target and a photodetector as a device to receive the returned signal from the target. 
+
+
+## 👨‍🏫 Lecture Slides 
+
+[An Introduction to LiDAR](https://cloud.sdsc.edu/v1/AUTH_opentopography/www/shortcourses/17Utah/17Utah_Crosby_introLidar.pdf).
+
+##  Practical exercise
+
+Reproduce the following R Notebook:
+
+[Checking and pre-processing Airborne Laser Scanning data](https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/ALS_data_preprocessing.html)
+
+Your html should look similar to [this file](https://drive.google.com/file/d/1GH6RRHNYIc1enF8AqizZGJhCgg1rJV6T/view?usp=sharing).
+
+
+## 📚 Required Readings
+
+[Understanding LAS and LAZ file formats](https://atlas.co/blog/understanding-las-and-laz-file-formats/)
+
+[LAS Format Definition](https://opals.geo.tuwien.ac.at/html/stable/ref_fmt_las.html)
+
+[Introduction to LiDAR](https://drive.google.com/file/d/16u6er8Sf6nDjGKiUYq6tSE4GDib1W99s/view?usp=drive_link)
+
+
+

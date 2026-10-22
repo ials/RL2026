@@ -1,30 +1,23 @@
 ---
-title: "🗓️ Week 9  -Introduction to LiDAR"
+title: "🗓️ Week 9  - Getting to know NiSAR data"
 ---
 
-Light detection and ranging (LiDAR) is a combination of laser technology and photoelectric detection technology. It uses a laser as a light source to transmit high-frequency laser pulses to the target and a photodetector as a device to receive the returned signal from the target. 
-
+The NISAR (NASA-ISRO Synthetic Aperture Radar) satellite mission provides high-resolution, dual-band (L-band and S-band) radar data to map Earth's land, ice, and ecosystems. Launched on July 30, 2025, it captures global observations every 12 days through open-access portals like the Alaska Satellite Facility. 
 
 ## 👨‍🏫 Lecture Slides 
 
-[An Introduction to LiDAR](https://cloud.sdsc.edu/v1/AUTH_opentopography/www/shortcourses/17Utah/17Utah_Crosby_introLidar.pdf).
+[Basic polarimetry with polsartools](https://drive.google.com/file/d/1iOK5rblhzqgIYz7Z9JUvf3ODjJY83tw-/view?usp=sharing).
 
 ##  Practical exercise
 
-Reproduce the following R Notebook:
+Reproduce the following Jupyter notebook that replicates the tutorial [Basic Polarimetric Techniques with PolSARtools](https://asfopensarlab.github.io/NISAR_Cookbook/gslc-basic-polsartools/) for an area of interest (AOI) in Colombia: 
 
-[Checking and pre-processing Airborne Laser Scanning data](https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/ALS_data_preprocessing.html)
-
-Your html should look similar to [this file](https://drive.google.com/file/d/1GH6RRHNYIc1enF8AqizZGJhCgg1rJV6T/view?usp=sharing).
-
+[Basic Dual Polarimetry using NISAR](https://drive.google.com/file/d/16HCwest47BP7p_jehc7dn0pIxjclXvXn/view?usp=sharing)
 
 ## 📚 Required Readings
 
-[Understanding LAS and LAZ file formats](https://atlas.co/blog/understanding-las-and-laz-file-formats/)
+[Polsartools: A cloud-native python library](https://www.sciencedirect.com/science/article/pii/S235271102500456X)
 
-[LAS Format Definition](https://opals.geo.tuwien.ac.at/html/stable/ref_fmt_las.html)
-
-[Introduction to LiDAR](https://drive.google.com/file/d/16u6er8Sf6nDjGKiUYq6tSE4GDib1W99s/view?usp=drive_link)
 
 
 

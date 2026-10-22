@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week08/page_soil_moisture.html</loc>
+    <lastmod>2026-10-13T13:44:47.362Z</lastmod>
+  </url>
+  <url>
     <loc>https://ials.github.io/RL2026/2026/weeks/week07/page_insar.html</loc>
     <lastmod>2026-10-07T23:43:42.600Z</lastmod>
   </url>
@@ -58,7 +62,7 @@
   </url>
   <url>
     <loc>https://ials.github.io/RL2026/2026/index.html</loc>
-    <lastmod>2026-09-21T18:44:32.761Z</lastmod>
+    <lastmod>2026-10-13T13:44:00.499Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RL2026/2026/weeks/week01/old_slides.html</loc>
@@ -107,5 +111,9 @@
   <url>
     <loc>https://ials.github.io/RL2026/2026/weeks/week07/pageInSAR.html</loc>
     <lastmod>2026-10-07T23:44:28.095Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week08/page.html</loc>
+    <lastmod>2026-10-13T14:22:34.373Z</lastmod>
   </url>
 </urlset>
