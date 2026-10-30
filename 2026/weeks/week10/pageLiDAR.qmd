@@ -1,0 +1,27 @@
+---
+title: "🗓️ Week 10 -LiDAR Remote Sensing Principles "
+---
+
+In this  week, we will  learn  the ranging principle of LiDAR systems, including pulsed LiDAR and phased LiDAR. Then, the LiDAR radiation principle will be introduced based on the LiDAR equation. The commonly used LiDAR waveform model and LiDAR radiative transfer model will be also presented. After that, we systematically know the principles of LiDAR systems with different platforms (spaceborne/airborne/terrestrial) and different methods of detection and digitization (full wave-
+form/discrete return/photon counting). Finally, the influence mechanisms of the sky environment (atmosphere and sunlight) on the LiDAR signal will be analyzed.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[Physical principles of LiDAR](https://drive.google.com/file/d/19xY68kF2MGm4yWnlpPklhliOY8MxfsGi/view?usp=sharing)
+
+##  Practical exercise
+
+The notebook below presents a workflow to prepare tree-level inventory data for the calibration of area-based models with ALS data and field measurements. Make sure you reproduce it  *during this week*:
+
+[Area-based approach 1: data preparation](https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/area-based.1.data.preparation.html)
+
+The resulting html should look similar to [this one](https://drive.google.com/file/d/1EUOg7qnerqFtlHraNO7ozRPY0QtqZRYt/view?usp=sharing).
+
+
+## 📚 Required Reading
+
+[LiDAR Remote Sensing Principles](https://drive.google.com/file/d/1fYRZXUimRTJAiCu8JSsuQHpKBtiUazyX/view?usp=sharing)
+
+
+

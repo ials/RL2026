@@ -1725,7 +1725,7 @@
   {
     "objectID": "2026/weeks/week09/page.html",
     "href": "2026/weeks/week09/page.html",
-    "title": "🗓️ Week 9 - Getting to know NiSAR data",
+    "title": "🗓️ Week 9 - Getting to know NISAR data",
     "section": "",
     "text": "The NISAR (NASA-ISRO Synthetic Aperture Radar) satellite mission provides high-resolution, dual-band (L-band and S-band) radar data to map Earth’s land, ice, and ecosystems. Launched on July 30, 2025, it captures global observations every 12 days through open-access portals like the Alaska Satellite Facility.",
     "crumbs": [
@@ -1736,7 +1736,7 @@
   {
     "objectID": "2026/weeks/week09/page.html#lecture-slides",
     "href": "2026/weeks/week09/page.html#lecture-slides",
-    "title": "🗓️ Week 9 - Getting to know NiSAR data",
+    "title": "🗓️ Week 9 - Getting to know NISAR data",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nBasic polarimetry with polsartools.",
     "crumbs": [
@@ -1747,7 +1747,7 @@
   {
     "objectID": "2026/weeks/week09/page.html#practical-exercise",
     "href": "2026/weeks/week09/page.html#practical-exercise",
-    "title": "🗓️ Week 9 - Getting to know NiSAR data",
+    "title": "🗓️ Week 9 - Getting to know NISAR data",
     "section": "Practical exercise",
     "text": "Practical exercise\nReproduce the following Jupyter notebook that replicates the tutorial Basic Polarimetric Techniques with PolSARtools for an area of interest (AOI) in Colombia:\nBasic Dual Polarimetry using NISAR",
     "crumbs": [
@@ -1758,56 +1758,12 @@
   {
     "objectID": "2026/weeks/week09/page.html#required-readings",
     "href": "2026/weeks/week09/page.html#required-readings",
-    "title": "🗓️ Week 9 - Getting to know NiSAR data",
+    "title": "🗓️ Week 9 - Getting to know NISAR data",
     "section": "📚 Required Readings",
     "text": "📚 Required Readings\nPolsartools: A cloud-native python library",
     "crumbs": [
       "🗓️ Weeks",
       "Week 09"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/week10/page.html",
-    "href": "2026/weeks/week10/page.html",
-    "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
-    "section": "",
-    "text": "In this week, we will learn the ranging principle of LiDAR systems, including pulsed LiDAR and phased LiDAR. Then, the LiDAR radiation principle will be introduced based on the LiDAR equation. The commonly used LiDAR waveform model and LiDAR radiative transfer model will be also presented. After that, we systematically know the principles of LiDAR systems with different platforms (spaceborne/airborne/terrestrial) and different methods of detection and digitization (full wave- form/discrete return/photon counting). Finally, the influence mechanisms of the sky environment (atmosphere and sunlight) on the LiDAR signal will be analyzed.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/week10/page.html#lecture-slides",
-    "href": "2026/weeks/week10/page.html#lecture-slides",
-    "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nPhysical principles of LiDAR",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/week10/page.html#practical-exercise",
-    "href": "2026/weeks/week10/page.html#practical-exercise",
-    "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
-    "section": "Practical exercise",
-    "text": "Practical exercise\nThe notebook below presents a workflow to prepare tree-level inventory data for the calibration of area-based models with ALS data and field measurements. Make sure you reproduce it during this week:\nArea-based approach 1: data preparation\nThe resulting html should look similar to this one.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/week10/page.html#required-reading",
-    "href": "2026/weeks/week10/page.html#required-reading",
-    "title": "🗓️ Week 10 -LiDAR Remote Sensing Principles",
-    "section": "📚 Required Reading",
-    "text": "📚 Required Reading\nLiDAR Remote Sensing Principles",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 10"
     ]
   }
 ]

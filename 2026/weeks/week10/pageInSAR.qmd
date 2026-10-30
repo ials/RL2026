@@ -1,0 +1,28 @@
+---
+title: "🗓️ Week 07 - SAR Interferometry"
+---
+
+In this  week, we will  learn InSAR principles.
+
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://drive.google.com/file/d/1DKn8Xc3Pd9ft5YzT4ITlyx-ES-283aM-/view?usp=sharing) to view the slides.
+
+
+## First report 
+
+**Students upload their first report on time** at [this link](https://drive.google.com/drive/folders/1I5eXU-gp6T38oW_NT-RKjC1LSIcWhqYb?usp=drive_link).
+
+## Practical exercise
+
+Learn how to [create an Interferogram Using ESA’s Sentinel-1 Toolbox](https://www.earthdata.nasa.gov/learn/data-recipes/create-interferogram-using-esas-sentinel-1-toolbox)
+
+
+## 📚 Recommended Reading
+
+[Differential and Persistent Scatterer SAR
+Interferometry](https://sille.space/images/pdf/to-insar-v1.pdf)
+
+
+
