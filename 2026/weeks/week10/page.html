@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>🗓️ Week 10 -LiDAR Remote Sensing Principles – RADAR AND LIDAR</title>
+<title>🗓️ Week 10 - SAR Interferometry – RADAR AND LIDAR</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -73,10 +73,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="🗓️ Week 10 -LiDAR Remote Sensing Principles – RADAR AND LIDAR">
+<meta property="og:title" content="🗓️ Week 10 - SAR Interferometry – RADAR AND LIDAR">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="RADAR AND LIDAR">
-<meta name="twitter:title" content="🗓️ Week 10 -LiDAR Remote Sensing Principles – RADAR AND LIDAR">
+<meta name="twitter:title" content="🗓️ Week 10 - SAR Interferometry – RADAR AND LIDAR">
 <meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -325,8 +325,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
-  <li><a href="#practical-exercise" id="toc-practical-exercise" class="nav-link" data-scroll-target="#practical-exercise">Practical exercise</a></li>
-  <li><a href="#required-reading" id="toc-required-reading" class="nav-link" data-scroll-target="#required-reading">📚 Required Reading</a></li>
+  <li><a href="#practical-exercises" id="toc-practical-exercises" class="nav-link" data-scroll-target="#practical-exercises">Practical exercises</a></li>
+  <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
   </ul>
 </nav>
     </div>
@@ -335,7 +335,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2026/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2026/weeks/week10/page.html">Week 10</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 10 -LiDAR Remote Sensing Principles</h1>
+<h1 class="title">🗓️ Week 10 - SAR Interferometry</h1>
 </div>
 
 
@@ -358,20 +358,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this week, we will learn the ranging principle of LiDAR systems, including pulsed LiDAR and phased LiDAR. Then, the LiDAR radiation principle will be introduced based on the LiDAR equation. The commonly used LiDAR waveform model and LiDAR radiative transfer model will be also presented. After that, we systematically know the principles of LiDAR systems with different platforms (spaceborne/airborne/terrestrial) and different methods of detection and digitization (full wave- form/discrete return/photon counting). Finally, the influence mechanisms of the sky environment (atmosphere and sunlight) on the LiDAR signal will be analyzed.</p>
+<p>In this week, we will learn InSAR principles.</p>
 <section id="lecture-slides" class="level2">
 <h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
-<p><a href="https://drive.google.com/file/d/19xY68kF2MGm4yWnlpPklhliOY8MxfsGi/view?usp=sharing">Physical principles of LiDAR</a></p>
+<ul>
+<li><p><a href="https://drive.google.com/file/d/1YzwM9TnI31zimrmRFYT_NDoohRviGkym/view?usp=sharing">IALS slides</a></p></li>
+<li><p><a href="https://drive.google.com/file/d/1DKn8Xc3Pd9ft5YzT4ITlyx-ES-283aM-/view?usp=sharing">Valentino slides</a> to view the slides.</p></li>
+</ul>
 </section>
-<section id="practical-exercise" class="level2">
-<h2 class="anchored" data-anchor-id="practical-exercise">Practical exercise</h2>
-<p>The notebook below presents a workflow to prepare tree-level inventory data for the calibration of area-based models with ALS data and field measurements. Make sure you reproduce it <em>during this week</em>:</p>
-<p><a href="https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/area-based.1.data.preparation.html">Area-based approach 1: data preparation</a></p>
-<p>The resulting html should look similar to <a href="https://drive.google.com/file/d/1EUOg7qnerqFtlHraNO7ozRPY0QtqZRYt/view?usp=sharing">this one</a>.</p>
+<section id="practical-exercises" class="level2">
+<h2 class="anchored" data-anchor-id="practical-exercises">Practical exercises</h2>
+<ul>
+<li><p>Learn how to <a href="https://www.earthdata.nasa.gov/learn/data-recipes/create-interferogram-using-esas-sentinel-1-toolbox">create an Interferogram Using ESA’s Sentinel-1 Toolbox</a></p></li>
+<li><p><a href="https://drive.google.com/drive/folders/13-71e_-OwDp6N23FzjXrnYAE2fHJrBXk?usp=sharing">Dive deeper into InSAR with Python</a></p></li>
+</ul>
 </section>
-<section id="required-reading" class="level2">
-<h2 class="anchored" data-anchor-id="required-reading">📚 Required Reading</h2>
-<p><a href="https://drive.google.com/file/d/1fYRZXUimRTJAiCu8JSsuQHpKBtiUazyX/view?usp=sharing">LiDAR Remote Sensing Principles</a></p>
+<section id="recommended-reading" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
+<p><a href="https://sille.space/images/pdf/to-insar-v1.pdf">Differential and Persistent Scatterer SAR Interferometry</a></p>
 
 
 </section>
