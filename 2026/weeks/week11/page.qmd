@@ -1,30 +1,18 @@
 ---
-title: "🗓️ Week 11 -Forest metrics from LiDAR "
+title: "🗓️ Week 11 - LiDAR Foundations "
 ---
 
-In this  week, we will learn how to extract metrics used in forestry from laser scanning/LiDAR data.
+In this  week, we will learn how laser ranging becomes 3D maps: principles, systems, data, accuracy and applications
 
 
 ## 👨‍🏫 Lecture Slides 
 
-[LiDAR Applications in Forestry](http://lees.geo.msu.edu/resources/files/teaching_lees_lidar.pdf).
-
-##  Practical exercise
-
-Select the track most convenient for you:
-
-### R Track
-
-[Forest structure metrics extraction](https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/forest.structure.metrics.html)
-
-### Python Track
-
-[Getting started with pyForMetrix](https://pyformetrix.readthedocs.io/en/latest/readme.html).  Your notebook should look similar to [this one](https://drive.google.com/file/d/1-2tpZ3cffyiNobxkCmoH7N1XnvaTZqIk/view?usp=sharing).
+[LiDAR Foundations](https://drive.google.com/file/d/1jRlbcGSQZnmh7RdhmdDlUUHhT_fFa9Uk/view?usp=sharing).
 
 
 ## 📚 Required reading
 
-[Comparing ALS and Image-Based Point Cloud Metrics and Modelled Forest Inventory Attributes in a Complex Coastal Forest Environment](https://www.mdpi.com/1999-4907/6/10/3704).
+[Physical Principles of LiDAR](https://drive.google.com/file/d/19xY68kF2MGm4yWnlpPklhliOY8MxfsGi/view?usp=sharing).
 
 
 

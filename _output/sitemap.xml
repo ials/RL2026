@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week10/slides.html</loc>
+    <lastmod>2026-07-25T23:10:01.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week10/pageInSAR.html</loc>
+    <lastmod>2026-10-30T15:50:00.631Z</lastmod>
+  </url>
+  <url>
     <loc>https://ials.github.io/RL2026/2026/weeks/week09/slides.html</loc>
     <lastmod>2026-07-25T23:10:01.694Z</lastmod>
   </url>
@@ -127,5 +135,13 @@
   <url>
     <loc>https://ials.github.io/RL2026/2026/weeks/week09/page.html</loc>
     <lastmod>2026-10-22T02:10:04.837Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week10/page.html</loc>
+    <lastmod>2026-10-30T16:22:11.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week10/pageLiDAR.html</loc>
+    <lastmod>2026-10-30T15:50:23.987Z</lastmod>
   </url>
 </urlset>
