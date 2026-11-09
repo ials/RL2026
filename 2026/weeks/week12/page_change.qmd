@@ -1,0 +1,22 @@
+---
+title: "🗓️ Week 12 -Change analysis using LiDAR (1) "
+---
+
+In this  week, we will get familiar with  change analysis techniques using LiDAR.
+
+## 👨‍🏫 Lecture 
+
+[Change detection on 3D Point Clouds](https://drive.google.com/file/d/1mpwSjvablinO2Bjj1HtpyjOPAUEURN6t/view?usp=sharing)
+
+## 👨 Practical exercises
+
+Go to [this repository](https://github.com/UP-RS-ESP/PointCloudWorkshop-May2022) and reproduce its practical exercises on point clouds and change detection.  It would be better if, previous to the class, you follow the installation instructions included there.
+
+
+## 🏠 Reading
+
+Make sure you read the following paper before next class:
+[Accurate 3D comparison of complex topography with terrestrial laser scanner](https://nicolas.brodu.net/common/recherche/publications/M3C2.pdf)
+
+
+

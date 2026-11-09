@@ -4,7 +4,15 @@ subtitle: "Academic Year: 2026"
 format: html
 ---
 
-::: {.callout-important collapse=false}
+::: {.callout-important collapse=true}
+## 📢  Notas Informe No. 1 
+
+[See here](https://drive.google.com/file/d/162uMZE7g0hLiW498K6f36WgbGACcy6zX/view?usp=sharing)
+
+:::
+
+
+::: {.callout-important collapse=true}
 ## 📢  Informe No. 1 is due on 15 October
 
 
