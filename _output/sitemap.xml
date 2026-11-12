@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week12/slides.html</loc>
+    <lastmod>2026-07-25T23:10:01.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week12/page.html</loc>
+    <lastmod>2026-11-09T15:10:34.038Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week12/npage.html</loc>
+    <lastmod>2026-07-25T23:10:01.824Z</lastmod>
+  </url>
+  <url>
     <loc>https://ials.github.io/RL2026/2026/weeks/week11/slides.html</loc>
     <lastmod>2026-07-25T23:10:01.822Z</lastmod>
   </url>
@@ -82,7 +94,7 @@
   </url>
   <url>
     <loc>https://ials.github.io/RL2026/2026/index.html</loc>
-    <lastmod>2026-10-13T13:44:00.499Z</lastmod>
+    <lastmod>2026-11-09T15:20:30.551Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RL2026/2026/weeks/week01/old_slides.html</loc>
@@ -155,5 +167,17 @@
   <url>
     <loc>https://ials.github.io/RL2026/2026/weeks/week11/page_forest_metrics.html</loc>
     <lastmod>2026-11-05T13:20:04.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week12/CC_page.html</loc>
+    <lastmod>2026-07-25T23:10:01.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week12/nslides.html</loc>
+    <lastmod>2026-07-25T23:10:01.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RL2026/2026/weeks/week12/page_change.html</loc>
+    <lastmod>2026-11-09T15:01:21.377Z</lastmod>
   </url>
 </urlset>

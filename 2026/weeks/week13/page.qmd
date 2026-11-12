@@ -1,24 +1,21 @@
 ---
-title: "🗓️ Week 13 -Change analysis using LiDAR (2)"
+title: "🗓️ Week 13 - Diving Deeper with GEDI "
 ---
 
-In this  week, we will continue understanding change analysis using LiDAR.
+In this  week, we will learn how to compute vegetation structural metrics.
 
 ## 👨‍🏫 Lecture 
 
-[Landslide Monitoring Using UAS and Multiscale Model-to-Model Cloud Comparison](https://drive.google.com/file/d/1i_HFcPrEnFgoAZzF1NhE-fMXfAWqnEdJ/view?usp=drive_link)
+[From ground to canopy](https://drive.google.com/file/d/18rh5WAKJY_aejCZt_BDi49hcaiOuL4Hg/view?usp=sharing)
+
+## 👨 Practical exercises
+
+[Vegetation structure with GEDI L2B](https://drive.google.com/file/d/1oD7fjzaXi6_YIL2nKHgsqXN1-htRczwy/view?usp=sharing) 
 
 
-## 👨 Practical exercise
+## 🏠 Required reading
 
-
-Read [Use case: Multitemporal and multi-sensor observation of the active rock glacier Äußeres Hochebenkar (Austria)](https://3dgeo-heidelberg.github.io/etrainee/data_usecases/usecase_rockglacier_ahk.html).
-
-Then, reproduce [this notebook](https://github.com/3dgeo-heidelberg/py4dgeo/blob/main/demo/m3c2-change_analysis.ipynb) to perform a surface change analysis on TLS point clouds of a rock glacier for two consecutive years.
-
-## 🏠 Reading
-
-[Multi-temporal 3D point cloud-based quantification and analysis of geomorphological activity at an alpine rock glacier using airborne and terrestrial LiDAR](https://drive.google.com/file/d/1_e5JcokQwoa14aklrg-NFh0cCQ4PHb4a/view?usp=sharing)
+[Intercomparison of high spatial resolution LAI remote sensing products at forest sites](https://www.sciencedirect.com/science/article/pii/S1574954125005461)
 
 
 

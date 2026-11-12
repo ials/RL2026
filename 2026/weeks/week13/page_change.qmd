@@ -1,0 +1,24 @@
+---
+title: "🗓️ Week 13 -Change analysis using LiDAR (2)"
+---
+
+In this  week, we will continue understanding change analysis using LiDAR.
+
+## 👨‍🏫 Lecture 
+
+[Landslide Monitoring Using UAS and Multiscale Model-to-Model Cloud Comparison](https://drive.google.com/file/d/1i_HFcPrEnFgoAZzF1NhE-fMXfAWqnEdJ/view?usp=drive_link)
+
+
+## 👨 Practical exercise
+
+
+Read [Use case: Multitemporal and multi-sensor observation of the active rock glacier Äußeres Hochebenkar (Austria)](https://3dgeo-heidelberg.github.io/etrainee/data_usecases/usecase_rockglacier_ahk.html).
+
+Then, reproduce [this notebook](https://github.com/3dgeo-heidelberg/py4dgeo/blob/main/demo/m3c2-change_analysis.ipynb) to perform a surface change analysis on TLS point clouds of a rock glacier for two consecutive years.
+
+## 🏠 Reading
+
+[Multi-temporal 3D point cloud-based quantification and analysis of geomorphological activity at an alpine rock glacier using airborne and terrestrial LiDAR](https://drive.google.com/file/d/1_e5JcokQwoa14aklrg-NFh0cCQ4PHb4a/view?usp=sharing)
+
+
+
