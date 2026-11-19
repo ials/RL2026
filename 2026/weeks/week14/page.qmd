@@ -1,25 +1,28 @@
 ---
-title: "🗓️ Week 14 -  GEDI LiDAR"
+title: "🗓️ Week 14 -  Biomass with GEDI"
 ---
 
-In this  week, we will get to know *Global Ecosystem Dynamics Investigation*.
+In this  week, we will get familiar with L4A footprints, L4B grids and OBIWAN.
+
+![](figures/OBI-WAN.png)
 
 
 ## 👨‍🏫 Lecture Slides 
 
-[GEDI LiDAR](https://www.kiss.caltech.edu/workshops/ecosystem/Presentations/Dubayah%20KISS%20GEDI%20Short%20Course2.pdf).
+[Biomass, change and calibration](https://drive.google.com/file/d/1wJI6wgz6cuVpfaI9kUdz_vdsrI8W6xHP/view?usp=sharing).
 
 ##  Practical exercises
 
-- [Access GEDI L4B Dataset with OGC Web Services](https://ornldaac.github.io/gedi_tutorials/notebooks/gedi_l4b_ogc.html)
+- [GEE App](https://yang.users.earthengine.app/view/obiwan)
 
-- [Exploring gediDB functionalities](https://drive.google.com/file/d/1g-bZMOQ1KXUy9Sgzj93RADUron6lDoYz/view?usp=sharing)
+- [Biomass change](https://drive.google.com/file/d/1ueaG1FTP9RmiyXUEh7OptQSsrX-pFg7E/view?usp=sharing)
+
 
 ## Homework
 
 Students continue working on their  *Informe No.2*.
 
-** Upload your inform not later than 4th December at 11:59 pm **
+** Upload your inform not later than 3 December at 11:59 pm **
 
 
 

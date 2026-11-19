@@ -1,0 +1,27 @@
+---
+title: "🗓️ Week 14 -  GEDI LiDAR"
+---
+
+In this  week, we will get to know *Global Ecosystem Dynamics Investigation*.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[GEDI LiDAR](https://www.kiss.caltech.edu/workshops/ecosystem/Presentations/Dubayah%20KISS%20GEDI%20Short%20Course2.pdf).
+
+##  Practical exercises
+
+- [Access GEDI L4B Dataset with OGC Web Services](https://ornldaac.github.io/gedi_tutorials/notebooks/gedi_l4b_ogc.html)
+
+- [Exploring gediDB functionalities](https://drive.google.com/file/d/1g-bZMOQ1KXUy9Sgzj93RADUron6lDoYz/view?usp=sharing)
+
+## Homework
+
+Students continue working on their  *Informe No.2*.
+
+** Upload your inform not later than 4th December at 11:59 pm **
+
+
+
+
+
